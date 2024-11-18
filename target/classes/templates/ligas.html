@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html class="h-100" xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <th:block th:replace="fragments/head :: header" />
+    <title>IW: Ligas</title>
+</head>
+
+<body class="d-flex flex-column h-100">
+    <header th:replace="fragments/nav.html :: nav"></header>
+
+    <main class="flex-shrink-0">
+        <div class="container">
+            <h1>Ligas</h1>
+            <th:block th:if="${ligas.empty}">
+                <p>No hay ligas creadas.</p>
+            </th:block>
+            <th:block th:if="${not ligas.empty}">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Nombre</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr th:each="liga : ${ligas}">
+                            <td th:text="${liga.nombreLiga}"></td>
+                            <td>
+                                <form th:action="@{/unirseliga}" method="get">
+                                    <input type="hidden" id="nombreEquipo" name="nombreEquipo" th:value="${nombreEquipo}" />
+                                    <input type="hidden" id="nombreLiga" name="nombreLiga" th:value="${liga.nombreLiga}" />
+                                    <button type="submit">Unirse a una liga</button>
+                                </form>
+                            </td>
+                        </tr>                    
+                    </tbody>
+                </table>
+            </th:block>
+        </div>
+    </main>
+
+    <th:block th:replace="fragments/footer.html :: footer" />
+
+    <script th:src="@{/js/ajax-demo.js}"></script>
+</body>
+</html>

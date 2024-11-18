@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html class="h-100" xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <th:block th:replace="fragments/head :: header" />
+    <title>IW: Vender</title>
+</head>
+
+<body class="d-flex flex-column h-100">
+    <header th:replace="fragments/nav.html :: nav"></header>
+
+    <main class="flex-shrink-0">
+        <div class="container">
+            <h1>¿Quieres confirmar la venta de este jugador?</h1>
+            <div class="jugadores_mercado">
+                <div class="div_jugador">
+                    <div class="imagen_jugador">
+                        <img th:src="@{'/img/jugadores/' + ${jugador.nombre} + '.jpg'}"/>
+                    </div>
+                    <div class="info_jugador">
+                        <a th:href="@{/jugador/{idJugador}(idJugador=${jugador.id})}" th:text="${jugador.nombre}">
+                            Nombre jugador
+                        </a>
+                        <p>Equipo: <span th:text="${jugador.equipo}">Equipo</span></p>
+                        <p>Posición: <span th:text="${jugador.posicion}">Jugador</span></p>
+                        <p>Últimos partidos</p>
+                        <div class = "ultimosPartidos">
+                            <p th:each="valoracion : ${ultimosPartidos}" th:text="${valoracion}">Valoracion</p>
+                        </div>
+                    </div>
+                    <div class="promedio_valor">
+                        <p>prom. <span th:text="${jugador.partidosJugados != 0 ? jugador.puntosTotales / jugador.partidosJugados : '0'}">Promedio de puntos</span></p>
+                        <span th:text="${jugador.valorMercado} + '&euro;'">Valor de mercado</span>
+                    </div>
+                    <form class="form-signin" method="post" th:action="@{/MiEquipo/{id}(id=${idequipo})}">
+                        <input type="hidden" name="formType" th:value="venderJugador">
+                        <input type="hidden" name="idequipo" th:value="${idequipo}">
+                        <input type="hidden" name="nombreJugador" th:value="${jugador.nombre}">
+                        <button class="btn btn-lg btn-custom btn-block" type="submit">Vender</button>
+                    </form>
+                </div>
+            </div>
+    </main>
+
+    <th:block th:replace="fragments/footer.html :: footer" />
+
+    <script th:src="@{/js/ajax-demo.js}"></script>
+</body>
+
+</html>

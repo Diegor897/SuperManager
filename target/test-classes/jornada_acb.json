@@ -1,0 +1,2144 @@
+[
+    {
+        "local": "Coviran Granada",
+        "puntos_local": 101,
+        "visitante": "UCAM Murcia",
+        "puntos_visitante": 104,
+        "jornada": 1
+    },
+    {
+        "local": "Valencia Basket",
+        "puntos_local": 85,
+        "visitante": "Basquet Girona",
+        "puntos_visitante": 89,
+        "jornada": 1
+    },
+    {
+        "local": "Unicaja Malaga",
+        "puntos_local": 98,
+        "visitante": "Lenovo Tenerife",
+        "puntos_visitante": 75,
+        "jornada": 1
+    },
+    {
+        "local": "Monbus Obradoiro",
+        "puntos_local": 84,
+        "visitante": "Zunder Palencia",
+        "puntos_visitante": 64,
+        "jornada": 1
+    },
+    {
+        "local": "Real Madrid",
+        "puntos_local": 101,
+        "visitante": "Casademont Zaragoza",
+        "puntos_visitante": 70,
+        "jornada": 1
+    },
+    {
+        "local": "Dreamland Gran Canaria",
+        "puntos_local": 97,
+        "visitante": "BAXI Manresa",
+        "puntos_visitante": 92,
+        "jornada": 1
+    },
+    {
+        "local": "Rio Breogan",
+        "puntos_local": 79,
+        "visitante": "Baskonia Vitoria-Gasteiz",
+        "puntos_visitante": 88,
+        "jornada": 1
+    },
+    {
+        "local": "Surne Bilbao",
+        "puntos_local": 95,
+        "visitante": "MoraBanc Andorra",
+        "puntos_visitante": 73,
+        "jornada": 1
+    },
+    {
+        "local": "FC Barcelona",
+        "puntos_local": 95,
+        "visitante": "Joventut Badalona",
+        "puntos_visitante": 79,
+        "jornada": 1
+    },
+    {
+        "local": "Casademont Zaragoza",
+        "puntos_local": 100,
+        "visitante": "Unicaja Malaga",
+        "puntos_visitante": 92,
+        "jornada": 2
+    },
+    {
+        "local": "UCAM Murcia",
+        "puntos_local": 88,
+        "visitante": "Baskonia Vitoria-Gasteiz",
+        "puntos_visitante": 76,
+        "jornada": 2
+    },
+    {
+        "local": "Lenovo Tenerife",
+        "puntos_local": 86,
+        "visitante": "Valencia Basket",
+        "puntos_visitante": 94,
+        "jornada": 2
+    },
+    {
+        "local": "Joventut Badalona",
+        "puntos_local": 86,
+        "visitante": "Coviran Granada",
+        "puntos_visitante": 80,
+        "jornada": 2
+    },
+    {
+        "local": "Basquet Girona",
+        "puntos_local": 88,
+        "visitante": "Dreamland Gran Canaria",
+        "puntos_visitante": 64,
+        "jornada": 2
+    },
+    {
+        "local": "Zunder Palencia",
+        "puntos_local": 83,
+        "visitante": "FC Barcelona",
+        "puntos_visitante": 84,
+        "jornada": 2
+    },
+    {
+        "local": "MoraBanc Andorra",
+        "puntos_local": 63,
+        "visitante": "Rio Breogan",
+        "puntos_visitante": 69,
+        "jornada": 2
+    },
+    {
+        "local": "BAXI Manresa",
+        "puntos_local": 88,
+        "visitante": "Real Madrid",
+        "puntos_visitante": 94,
+        "jornada": 2
+    },
+    {
+        "local": "Baskonia Vitoria-Gasteiz",
+        "puntos_local": 92,
+        "visitante": "Surne Bilbao",
+        "puntos_visitante": 72,
+        "jornada": 2
+    },
+    {
+        "local": "UCAM Murcia",
+        "puntos_local": 80,
+        "visitante": "Lenovo Tenerife",
+        "puntos_visitante": 68,
+        "jornada": 3
+    },
+    {
+        "local": "Unicaja Malaga",
+        "puntos_local": 76,
+        "visitante": "Valencia Basket",
+        "puntos_visitante": 82,
+        "jornada": 3
+    },
+    {
+        "local": "Coviran Granada",
+        "puntos_local": 91,
+        "visitante": "Basquet Girona",
+        "puntos_visitante": 102,
+        "jornada": 3
+    },
+    {
+        "local": "Joventut Badalona",
+        "puntos_local": 89,
+        "visitante": "Dreamland Gran Canaria",
+        "puntos_visitante": 75,
+        "jornada": 3
+    },
+    {
+        "local": "Rio Breogan",
+        "puntos_local": 85,
+        "visitante": "BAXI Manresa",
+        "puntos_visitante": 89,
+        "jornada": 3
+    },
+    {
+        "local": "MoraBanc Andorra",
+        "puntos_local": 87,
+        "visitante": "Zunder Palencia",
+        "puntos_visitante": 74,
+        "jornada": 3
+    },
+    {
+        "local": "Real Madrid",
+        "puntos_local": 86,
+        "visitante": "FC Barcelona",
+        "puntos_visitante": 79,
+        "jornada": 3
+    },
+    {
+        "local": "Monbus Obradoiro",
+        "puntos_local": 77,
+        "visitante": "Surne Bilbao",
+        "puntos_visitante": 78,
+        "jornada": 3
+    },
+    {
+        "local": "Zunder Palencia",
+        "puntos_local": 69,
+        "visitante": "Joventut Badalona",
+        "puntos_visitante": 75,
+        "jornada": 3
+    },
+    {
+        "local": "BAXI Manresa",
+        "puntos_local": 81,
+        "visitante": "Casademont Zaragoza",
+        "puntos_visitante": 75,
+        "jornada": 4
+    },
+    {
+        "local": "Lenovo Tenerife",
+        "puntos_local": 88,
+        "visitante": "Rio Breogan",
+        "puntos_visitante": 81,
+        "jornada": 4
+    },
+    {
+        "local": "FC Barcelona",
+        "puntos_local": 91,
+        "visitante": "MoraBanc Andorra",
+        "puntos_visitante": 87,
+        "jornada": 4
+    },
+    {
+        "local": "Surne Bilbao",
+        "puntos_local": 77,
+        "visitante": "UCAM Murcia",
+        "puntos_visitante": 68,
+        "jornada": 4
+    },
+    {
+        "local": "Dreamland Gran Canaria",
+        "puntos_local": 76,
+        "visitante": "Unicaja Malaga",
+        "puntos_visitante": 69,
+        "jornada": 4
+    },
+    {
+        "local": "Valencia Basket",
+        "puntos_local": 85,
+        "visitante": "Monbus Obradoiro",
+        "puntos_visitante": 79,
+        "jornada": 4
+    },
+    {
+        "local": "Coviran Granada",
+        "puntos_local": 81,
+        "visitante": "Baskonia Vitoria-Gasteiz",
+        "puntos_visitante": 90,
+        "jornada": 4
+    },
+    {
+        "local": "Basquet Girona",
+        "puntos_local": 74,
+        "visitante": "Real Madrid",
+        "puntos_visitante": 93,
+        "jornada": 4
+    },
+    {
+        "local": "Monbus Obradoiro",
+        "puntos_local": 80,
+        "visitante": "Casademont Zaragoza",
+        "puntos_visitante": 72,
+        "jornada": 4
+    },
+    {
+        "local": "Surne Bilbao",
+        "puntos_local": 94,
+        "visitante": "Coviran Granada",
+        "puntos_visitante": 93,
+        "jornada": 5
+    },
+    {
+        "local": "MoraBanc Andorra",
+        "puntos_local": 92,
+        "visitante": "Monbus Obradoiro",
+        "puntos_visitante": 89,
+        "jornada": 5
+    },
+    {
+        "local": "Basquet Girona",
+        "puntos_local": 66,
+        "visitante": "Lenovo Tenerife",
+        "puntos_visitante": 79,
+        "jornada": 5
+    },
+    {
+        "local": "Unicaja Malaga",
+        "puntos_local": 113,
+        "visitante": "Joventut Badalona",
+        "puntos_visitante": 91,
+        "jornada": 5
+    },
+    {
+        "local": "Real Madrid",
+        "puntos_local": 106,
+        "visitante": "UCAM Murcia",
+        "puntos_visitante": 92,
+        "jornada": 5
+    },
+    {
+        "local": "BAXI Manresa",
+        "puntos_local": 92,
+        "visitante": "Zunder Palencia",
+        "puntos_visitante": 91,
+        "jornada": 5
+    },
+    {
+        "local": "Casademont Zaragoza",
+        "puntos_local": 80,
+        "visitante": "Baskonia Vitoria-Gasteiz",
+        "puntos_visitante": 85,
+        "jornada": 5
+    },
+    {
+        "local": "Rio Breogan",
+        "puntos_local": 59,
+        "visitante": "Valencia Basket",
+        "puntos_visitante": 61,
+        "jornada": 5
+    },
+    {
+        "local": "Dreamland Gran Canaria",
+        "puntos_local": 73,
+        "visitante": "FC Barcelona",
+        "puntos_visitante": 83,
+        "jornada": 5
+    },
+    {
+        "local": "Zunder Palencia",
+        "puntos_local": 74,
+        "visitante": "Rio Breogan",
+        "puntos_visitante": 59,
+        "jornada": 6
+    },
+    {
+        "local": "Joventut Badalona",
+        "puntos_local": 84,
+        "visitante": "MoraBanc Andorra",
+        "puntos_visitante": 94,
+        "jornada": 6
+    },
+    {
+        "local": "Monbus Obradoiro",
+        "puntos_local": 85,
+        "visitante": "Basquet Girona",
+        "puntos_visitante": 79,
+        "jornada": 6
+    },
+    {
+        "local": "UCAM Murcia",
+        "puntos_local": 95,
+        "visitante": "Dreamland Gran Canaria",
+        "puntos_visitante": 69,
+        "jornada": 6
+    },
+    {
+        "local": "FC Barcelona",
+        "puntos_local": 91,
+        "visitante": "Surne Bilbao",
+        "puntos_visitante": 82,
+        "jornada": 6
+    },
+    {
+        "local": "Lenovo Tenerife",
+        "puntos_local": 76,
+        "visitante": "Real Madrid",
+        "puntos_visitante": 82,
+        "jornada": 6
+    },
+    {
+        "local": "Valencia Basket",
+        "puntos_local": 84,
+        "visitante": "BAXI Manresa",
+        "puntos_visitante": 79,
+        "jornada": 6
+    },
+    {
+        "local": "Coviran Granada",
+        "puntos_local": 78,
+        "visitante": "Casademont Zaragoza",
+        "puntos_visitante": 70,
+        "jornada": 6
+    },
+    {
+        "local": "Baskonia Vitoria-Gasteiz",
+        "puntos_local": 84,
+        "visitante": "Unicaja Malaga",
+        "puntos_visitante": 93,
+        "jornada": 6
+    },
+    {
+        "local": "Unicaja Malaga",
+        "puntos_local": 87,
+        "visitante": "Rio Breogan",
+        "puntos_visitante": 70,
+        "jornada": 7
+    },
+    {
+        "local": "Basquet Girona",
+        "puntos_local": 82,
+        "visitante": "UCAM Murcia",
+        "puntos_visitante": 76,
+        "jornada": 7
+    },
+    {
+        "local": "Dreamland Gran Canaria",
+        "puntos_local": 87,
+        "visitante": "Monbus Obradoiro",
+        "puntos_visitante": 80,
+        "jornada": 7
+    },
+    {
+        "local": "Casademont Zaragoza",
+        "puntos_local": 113,
+        "visitante": "Joventut Badalona",
+        "puntos_visitante": 83,
+        "jornada": 7
+    },
+    {
+        "local": "BAXI Manresa",
+        "puntos_local": 90,
+        "visitante": "Coviran Granada",
+        "puntos_visitante": 84,
+        "jornada": 7
+    },
+    {
+        "local": "Real Madrid",
+        "puntos_local": 91,
+        "visitante": "Zunder Palencia",
+        "puntos_visitante": 68,
+        "jornada": 7
+    },
+    {
+        "local": "Surne Bilbao",
+        "puntos_local": 93,
+        "visitante": "Lenovo Tenerife",
+        "puntos_visitante": 94,
+        "jornada": 7
+    },
+    {
+        "local": "MoraBanc Andorra",
+        "puntos_local": 85,
+        "visitante": "Baskonia Vitoria-Gasteiz",
+        "puntos_visitante": 68,
+        "jornada": 7
+    },
+    {
+        "local": "Valencia Basket",
+        "puntos_local": 71,
+        "visitante": "FC Barcelona",
+        "puntos_visitante": 68,
+        "jornada": 7
+    },
+    {
+        "local": "Unicaja Malaga",
+        "puntos_local": 87,
+        "visitante": "Monbus Obradoiro",
+        "puntos_visitante": 74,
+        "jornada": 8
+    },
+    {
+        "local": "Casademont Zaragoza",
+        "puntos_local": 77,
+        "visitante": "Surne Bilbao",
+        "puntos_visitante": 63,
+        "jornada": 8
+    },
+    {
+        "local": "Zunder Palencia",
+        "puntos_local": 76,
+        "visitante": "Basquet Girona",
+        "puntos_visitante": 80,
+        "jornada": 8
+    },
+    {
+        "local": "Lenovo Tenerife",
+        "puntos_local": 71,
+        "visitante": "MoraBanc Andorra",
+        "puntos_visitante": 53,
+        "jornada": 8
+    },
+    {
+        "local": "Coviran Granada",
+        "puntos_local": 76,
+        "visitante": "Real Madrid",
+        "puntos_visitante": 83,
+        "jornada": 8
+    },
+    {
+        "local": "UCAM Murcia",
+        "puntos_local": 87,
+        "visitante": "BAXI Manresa",
+        "puntos_visitante": 74,
+        "jornada": 8
+    },
+    {
+        "local": "Rio Breogan",
+        "puntos_local": 63,
+        "visitante": "FC Barcelona",
+        "puntos_visitante": 79,
+        "jornada": 8
+    },
+    {
+        "local": "Baskonia Vitoria-Gasteiz",
+        "puntos_local": 79,
+        "visitante": "Dreamland Gran Canaria",
+        "puntos_visitante": 88,
+        "jornada": 8
+    },
+    {
+        "local": "Joventut Badalona",
+        "puntos_local": 80,
+        "visitante": "Valencia Basket",
+        "puntos_visitante": 76,
+        "jornada": 8
+    },
+    {
+        "local": "Rio Breogan",
+        "puntos_local": 85,
+        "visitante": "Joventut Badalona",
+        "puntos_visitante": 77,
+        "jornada": 9
+    },
+    {
+        "local": "MoraBanc Andorra",
+        "puntos_local": 86,
+        "visitante": "BAXI Manresa",
+        "puntos_visitante": 90,
+        "jornada": 9
+    },
+    {
+        "local": "Basquet Girona",
+        "puntos_local": 78,
+        "visitante": "Unicaja Malaga",
+        "puntos_visitante": 82,
+        "jornada": 9
+    },
+    {
+        "local": "Zunder Palencia",
+        "puntos_local": 66,
+        "visitante": "UCAM Murcia",
+        "puntos_visitante": 76,
+        "jornada": 9
+    },
+    {
+        "local": "Monbus Obradoiro",
+        "puntos_local": 108,
+        "visitante": "Baskonia Vitoria-Gasteiz",
+        "puntos_visitante": 95,
+        "jornada": 9
+    },
+    {
+        "local": "Dreamland Gran Canaria",
+        "puntos_local": 89,
+        "visitante": "Coviran Granada",
+        "puntos_visitante": 75,
+        "jornada": 9
+    },
+    {
+        "local": "Surne Bilbao",
+        "puntos_local": 84,
+        "visitante": "Real Madrid",
+        "puntos_visitante": 87,
+        "jornada": 9
+    },
+    {
+        "local": "Valencia Basket",
+        "puntos_local": 76,
+        "visitante": "Casademont Zaragoza",
+        "puntos_visitante": 69,
+        "jornada": 9
+    },
+    {
+        "local": "FC Barcelona",
+        "puntos_local": 94,
+        "visitante": "Lenovo Tenerife",
+        "puntos_visitante": 83,
+        "jornada": 9
+    },
+    {
+        "local": "Casademont Zaragoza",
+        "puntos_local": 94,
+        "visitante": "Dreamland Gran Canaria",
+        "puntos_visitante": 101,
+        "jornada": 10
+    },
+    {
+        "local": "Basquet Girona",
+        "puntos_local": 87,
+        "visitante": "Rio Breogan",
+        "puntos_visitante": 83,
+        "jornada": 10
+    },
+    {
+        "local": "Lenovo Tenerife",
+        "puntos_local": 92,
+        "visitante": "Zunder Palencia",
+        "puntos_visitante": 71,
+        "jornada": 10
+    },
+    {
+        "local": "BAXI Manresa",
+        "puntos_local": 76,
+        "visitante": "Monbus Obradoiro",
+        "puntos_visitante": 56,
+        "jornada": 10
+    },
+    {
+        "local": "Coviran Granada",
+        "puntos_local": 91,
+        "visitante": "MoraBanc Andorra",
+        "puntos_visitante": 88,
+        "jornada": 10
+    },
+    {
+        "local": "Real Madrid",
+        "puntos_local": 93,
+        "visitante": "Unicaja Malaga",
+        "puntos_visitante": 99,
+        "jornada": 10
+    },
+    {
+        "local": "Joventut Badalona",
+        "puntos_local": 81,
+        "visitante": "Surne Bilbao",
+        "puntos_visitante": 78,
+        "jornada": 10
+    },
+    {
+        "local": "Baskonia Vitoria-Gasteiz",
+        "puntos_local": 83,
+        "visitante": "Valencia Basket",
+        "puntos_visitante": 74,
+        "jornada": 10
+    },
+    {
+        "local": "UCAM Murcia",
+        "puntos_local": 82,
+        "visitante": "FC Barcelona",
+        "puntos_visitante": 73,
+        "jornada": 10
+    },
+    {
+        "local": "Monbus Obradoiro",
+        "puntos_local": 77,
+        "visitante": "Coviran Granada",
+        "puntos_visitante": 94,
+        "jornada": 11
+    },
+    {
+        "local": "Zunder Palencia",
+        "puntos_local": 77,
+        "visitante": "Valencia Basket",
+        "puntos_visitante": 101,
+        "jornada": 11
+    },
+    {
+        "local": "UCAM Murcia",
+        "puntos_local": 105,
+        "visitante": "Joventut Badalona",
+        "puntos_visitante": 73,
+        "jornada": 11
+    },
+    {
+        "local": "Surne Bilbao",
+        "puntos_local": 43,
+        "visitante": "Unicaja Malaga",
+        "puntos_visitante": 67,
+        "jornada": 11
+    },
+    {
+        "local": "Rio Breogan",
+        "puntos_local": 82,
+        "visitante": "Casademont Zaragoza",
+        "puntos_visitante": 77,
+        "jornada": 11
+    },
+    {
+        "local": "Real Madrid",
+        "puntos_local": 85,
+        "visitante": "MoraBanc Andorra",
+        "puntos_visitante": 76,
+        "jornada": 11
+    },
+    {
+        "local": "Baskonia Vitoria-Gasteiz",
+        "puntos_local": 94,
+        "visitante": "BAXI Manresa",
+        "puntos_visitante": 86,
+        "jornada": 11
+    },
+    {
+        "local": "FC Barcelona",
+        "puntos_local": 115,
+        "visitante": "Basquet Girona",
+        "puntos_visitante": 78,
+        "jornada": 11
+    },
+    {
+        "local": "Dreamland Gran Canaria",
+        "puntos_local": 82,
+        "visitante": "Lenovo Tenerife",
+        "puntos_visitante": 94,
+        "jornada": 11
+    },
+    {
+        "local": "Unicaja Malaga",
+        "puntos_local": 91,
+        "visitante": "BAXI Manresa",
+        "puntos_visitante": 77,
+        "jornada": 12
+    },
+    {
+        "local": "Casademont Zaragoza",
+        "puntos_local": 82,
+        "visitante": "UCAM Murcia",
+        "puntos_visitante": 76,
+        "jornada": 12
+    },
+    {
+        "local": "Lenovo Tenerife",
+        "puntos_local": 87,
+        "visitante": "Monbus Obradoiro",
+        "puntos_visitante": 92,
+        "jornada": 12
+    },
+    {
+        "local": "Basquet Girona",
+        "puntos_local": 107,
+        "visitante": "MoraBanc Andorra",
+        "puntos_visitante": 104,
+        "jornada": 12
+    },
+    {
+        "local": "Real Madrid",
+        "puntos_local": 91,
+        "visitante": "Rio Breogan",
+        "puntos_visitante": 58,
+        "jornada": 12
+    },
+    {
+        "local": "Dreamland Gran Canaria",
+        "puntos_local": 100,
+        "visitante": "Zunder Palencia",
+        "puntos_visitante": 73,
+        "jornada": 12
+    },
+    {
+        "local": "Valencia Basket",
+        "puntos_local": 79,
+        "visitante": "Surne Bilbao",
+        "puntos_visitante": 85,
+        "jornada": 12
+    },
+    {
+        "local": "FC Barcelona",
+        "puntos_local": 80,
+        "visitante": "Coviran Granada",
+        "puntos_visitante": 69,
+        "jornada": 12
+    },
+    {
+        "local": "Joventut Badalona",
+        "puntos_local": 77,
+        "visitante": "Baskonia Vitoria-Gasteiz",
+        "puntos_visitante": 72,
+        "jornada": 12
+    },
+    {
+        "local": "Surne Bilbao",
+        "puntos_local": 68,
+        "visitante": "Rio Breogan",
+        "puntos_visitante": 76,
+        "jornada": 13
+    },
+    {
+        "local": "Coviran Granada",
+        "puntos_local": 109,
+        "visitante": "Zunder Palencia",
+        "puntos_visitante": 85,
+        "jornada": 13
+    },
+    {
+        "local": "BAXI Manresa",
+        "puntos_local": 101,
+        "visitante": "Basquet Girona",
+        "puntos_visitante": 87,
+        "jornada": 13
+    },
+    {
+        "local": "MoraBanc Andorra",
+        "puntos_local": 81,
+        "visitante": "Unicaja Malaga",
+        "puntos_visitante": 87,
+        "jornada": 13
+    },
+    {
+        "local": "Real Madrid",
+        "puntos_local": 97,
+        "visitante": "Dreamland Gran Canaria",
+        "puntos_visitante": 71,
+        "jornada": 13
+    },
+    {
+        "local": "Joventut Badalona",
+        "puntos_local": 78,
+        "visitante": "Monbus Obradoiro",
+        "puntos_visitante": 69,
+        "jornada": 13
+    },
+    {
+        "local": "Baskonia Vitoria-Gasteiz",
+        "puntos_local": 104,
+        "visitante": "Lenovo Tenerife",
+        "puntos_visitante": 100,
+        "jornada": 13
+    },
+    {
+        "local": "UCAM Murcia",
+        "puntos_local": 77,
+        "visitante": "Valencia Basket",
+        "puntos_visitante": 85,
+        "jornada": 13
+    },
+    {
+        "local": "Casademont Zaragoza",
+        "puntos_local": 101,
+        "visitante": "FC Barcelona",
+        "puntos_visitante": 99,
+        "jornada": 13
+    },
+    {
+        "local": "Baskonia Vitoria-Gasteiz",
+        "puntos_local": 94,
+        "visitante": "Zunder Palencia",
+        "puntos_visitante": 82,
+        "jornada": 14
+    },
+    {
+        "local": "FC Barcelona",
+        "puntos_local": 82,
+        "visitante": "BAXI Manresa",
+        "puntos_visitante": 83,
+        "jornada": 14
+    },
+    {
+        "local": "Unicaja Malaga",
+        "puntos_local": 92,
+        "visitante": "Coviran Granada",
+        "puntos_visitante": 70,
+        "jornada": 14
+    },
+    {
+        "local": "BAXI Manresa",
+        "puntos_local": 73,
+        "visitante": "Lenovo Tenerife",
+        "puntos_visitante": 76,
+        "jornada": 14
+    },
+    {
+        "local": "Dreamland Gran Canaria",
+        "puntos_local": 83,
+        "visitante": "Surne Bilbao",
+        "puntos_visitante": 75,
+        "jornada": 14
+    },
+    {
+        "local": "Monbus Obradoiro",
+        "puntos_local": 74,
+        "visitante": "Real Madrid",
+        "puntos_visitante": 85,
+        "jornada": 14
+    },
+    {
+        "local": "Basquet Girona",
+        "puntos_local": 67,
+        "visitante": "Joventut Badalona",
+        "puntos_visitante": 82,
+        "jornada": 14
+    },
+    {
+        "local": "Zunder Palencia",
+        "puntos_local": 80,
+        "visitante": "Casademont Zaragoza",
+        "puntos_visitante": 88,
+        "jornada": 14
+    },
+    {
+        "local": "Rio Breogan",
+        "puntos_local": 74,
+        "visitante": "UCAM Murcia",
+        "puntos_visitante": 83,
+        "jornada": 14
+    },
+    {
+        "local": "FC Barcelona",
+        "puntos_local": 82,
+        "visitante": "Baskonia Vitoria-Gasteiz",
+        "puntos_visitante": 62,
+        "jornada": 15
+    },
+    {
+        "local": "Valencia Basket",
+        "puntos_local": 86,
+        "visitante": "MoraBanc Andorra",
+        "puntos_visitante": 82,
+        "jornada": 15
+    },
+    {
+        "local": "Surne Bilbao",
+        "puntos_local": 80,
+        "visitante": "Basquet Girona",
+        "puntos_visitante": 74,
+        "jornada": 15
+    },
+    {
+        "local": "MoraBanc Andorra",
+        "puntos_local": 77,
+        "visitante": "Dreamland Gran Canaria",
+        "puntos_visitante": 98,
+        "jornada": 15
+    },
+    {
+        "local": "Lenovo Tenerife",
+        "puntos_local": 64,
+        "visitante": "Casademont Zaragoza",
+        "puntos_visitante": 70,
+        "jornada": 15
+    },
+    {
+        "local": "UCAM Murcia",
+        "puntos_local": 65,
+        "visitante": "Unicaja Malaga",
+        "puntos_visitante": 88,
+        "jornada": 15
+    },
+    {
+        "local": "Valencia Basket",
+        "puntos_local": 75,
+        "visitante": "Coviran Granada",
+        "puntos_visitante": 81,
+        "jornada": 15
+    },
+    {
+        "local": "Joventut Badalona",
+        "puntos_local": 73,
+        "visitante": "Real Madrid",
+        "puntos_visitante": 101,
+        "jornada": 15
+    },
+    {
+        "local": "Rio Breogan",
+        "puntos_local": 88,
+        "visitante": "Monbus Obradoiro",
+        "puntos_visitante": 90,
+        "jornada": 15
+    },
+    {
+        "local": "Unicaja Malaga",
+        "puntos_local": 91,
+        "visitante": "FC Barcelona",
+        "puntos_visitante": 71,
+        "jornada": 16
+    },
+    {
+        "local": "Coviran Granada",
+        "puntos_local": 68,
+        "visitante": "Lenovo Tenerife",
+        "puntos_visitante": 80,
+        "jornada": 16
+    },
+    {
+        "local": "Casademont Zaragoza",
+        "puntos_local": 72,
+        "visitante": "MoraBanc Andorra",
+        "puntos_visitante": 76,
+        "jornada": 16
+    },
+    {
+        "local": "Monbus Obradoiro",
+        "puntos_local": 79,
+        "visitante": "UCAM Murcia",
+        "puntos_visitante": 87,
+        "jornada": 16
+    },
+    {
+        "local": "BAXI Manresa",
+        "puntos_local": 102,
+        "visitante": "Joventut Badalona",
+        "puntos_visitante": 89,
+        "jornada": 16
+    },
+    {
+        "local": "Zunder Palencia",
+        "puntos_local": 78,
+        "visitante": "Surne Bilbao",
+        "puntos_visitante": 72,
+        "jornada": 16
+    },
+    {
+        "local": "Basquet Girona",
+        "puntos_local": 85,
+        "visitante": "Baskonia Vitoria-Gasteiz",
+        "puntos_visitante": 93,
+        "jornada": 16
+    },
+    {
+        "local": "Dreamland Gran Canaria",
+        "puntos_local": 86,
+        "visitante": "Rio Breogan",
+        "puntos_visitante": 60,
+        "jornada": 16
+    },
+    {
+        "local": "Real Madrid",
+        "puntos_local": 83,
+        "visitante": "Valencia Basket",
+        "puntos_visitante": 74,
+        "jornada": 16
+    },
+    {
+        "local": "Casademont Zaragoza",
+        "puntos_local": 81,
+        "visitante": "Basquet Girona",
+        "puntos_visitante": 74,
+        "jornada": 17
+    },
+    {
+        "local": "MoraBanc Andorra",
+        "puntos_local": 98,
+        "visitante": "UCAM Murcia",
+        "puntos_visitante": 73,
+        "jornada": 17
+    },
+    {
+        "local": "Zunder Palencia",
+        "puntos_local": 72,
+        "visitante": "Unicaja Malaga",
+        "puntos_visitante": 86,
+        "jornada": 17
+    },
+    {
+        "local": "Lenovo Tenerife",
+        "puntos_local": 90,
+        "visitante": "Joventut Badalona",
+        "puntos_visitante": 70,
+        "jornada": 17
+    },
+    {
+        "local": "Surne Bilbao",
+        "puntos_local": 74,
+        "visitante": "BAXI Manresa",
+        "puntos_visitante": 54,
+        "jornada": 17
+    },
+    {
+        "local": "Rio Breogan",
+        "puntos_local": 85,
+        "visitante": "Coviran Granada",
+        "puntos_visitante": 79,
+        "jornada": 17
+    },
+    {
+        "local": "Valencia Basket",
+        "puntos_local": 79,
+        "visitante": "Dreamland Gran Canaria",
+        "puntos_visitante": 86,
+        "jornada": 17
+    },
+    {
+        "local": "FC Barcelona",
+        "puntos_local": 92,
+        "visitante": "Monbus Obradoiro",
+        "puntos_visitante": 90,
+        "jornada": 17
+    },
+    {
+        "local": "Baskonia Vitoria-Gasteiz",
+        "puntos_local": 85,
+        "visitante": "Real Madrid",
+        "puntos_visitante": 99,
+        "jornada": 17
+    },
+    {
+        "local": "Unicaja Malaga",
+        "puntos_local": 80,
+        "visitante": "Dreamland Gran Canaria",
+        "puntos_visitante": 77,
+        "jornada": 18
+    },
+    {
+        "local": "Basquet Girona",
+        "puntos_local": 84,
+        "visitante": "Zunder Palencia",
+        "puntos_visitante": 86,
+        "jornada": 18
+    },
+    {
+        "local": "Joventut Badalona",
+        "puntos_local": 95,
+        "visitante": "Casademont Zaragoza",
+        "puntos_visitante": 84,
+        "jornada": 18
+    },
+    {
+        "local": "MoraBanc Andorra",
+        "puntos_local": 87,
+        "visitante": "Surne Bilbao",
+        "puntos_visitante": 78,
+        "jornada": 18
+    },
+    {
+        "local": "Coviran Granada",
+        "puntos_local": 77,
+        "visitante": "Monbus Obradoiro",
+        "puntos_visitante": 74,
+        "jornada": 18
+    },
+    {
+        "local": "UCAM Murcia",
+        "puntos_local": 73,
+        "visitante": "Real Madrid",
+        "puntos_visitante": 61,
+        "jornada": 18
+    },
+    {
+        "local": "Valencia Basket",
+        "puntos_local": 88,
+        "visitante": "Rio Breogan",
+        "puntos_visitante": 80,
+        "jornada": 18
+    },
+    {
+        "local": "BAXI Manresa",
+        "puntos_local": 82,
+        "visitante": "Baskonia Vitoria-Gasteiz",
+        "puntos_visitante": 90,
+        "jornada": 18
+    },
+    {
+        "local": "Lenovo Tenerife",
+        "puntos_local": 80,
+        "visitante": "FC Barcelona",
+        "puntos_visitante": 83,
+        "jornada": 18
+    },
+    {
+        "local": "Monbus Obradoiro",
+        "puntos_local": 86,
+        "visitante": "Lenovo Tenerife",
+        "puntos_visitante": 97,
+        "jornada": 19
+    },
+    {
+        "local": "Dreamland Gran Canaria",
+        "puntos_local": 91,
+        "visitante": "UCAM Murcia",
+        "puntos_visitante": 80,
+        "jornada": 19
+    },
+    {
+        "local": "Zunder Palencia",
+        "puntos_local": 88,
+        "visitante": "BAXI Manresa",
+        "puntos_visitante": 95,
+        "jornada": 19
+    },
+    {
+        "local": "Joventut Badalona",
+        "puntos_local": 85,
+        "visitante": "Unicaja Malaga",
+        "puntos_visitante": 81,
+        "jornada": 19
+    },
+    {
+        "local": "Coviran Granada",
+        "puntos_local": 61,
+        "visitante": "FC Barcelona",
+        "puntos_visitante": 94,
+        "jornada": 19
+    },
+    {
+        "local": "Rio Breogan",
+        "puntos_local": 93,
+        "visitante": "Basquet Girona",
+        "puntos_visitante": 75,
+        "jornada": 19
+    },
+    {
+        "local": "Baskonia Vitoria-Gasteiz",
+        "puntos_local": 108,
+        "visitante": "MoraBanc Andorra",
+        "puntos_visitante": 95,
+        "jornada": 19
+    },
+    {
+        "local": "Casademont Zaragoza",
+        "puntos_local": 75,
+        "visitante": "Valencia Basket",
+        "puntos_visitante": 85,
+        "jornada": 19
+    },
+    {
+        "local": "Real Madrid",
+        "puntos_local": 95,
+        "visitante": "Surne Bilbao",
+        "puntos_visitante": 80,
+        "jornada": 19
+    },
+    {
+        "local": "Lenovo Tenerife",
+        "puntos_local": 75,
+        "visitante": "UCAM Murcia",
+        "puntos_visitante": 73,
+        "jornada": 20
+    },
+    {
+        "local": "Surne Bilbao",
+        "puntos_local": 86,
+        "visitante": "Casademont Zaragoza",
+        "puntos_visitante": 83,
+        "jornada": 20
+    },
+    {
+        "local": "MoraBanc Andorra",
+        "puntos_local": 79,
+        "visitante": "Joventut Badalona",
+        "puntos_visitante": 86,
+        "jornada": 20
+    },
+    {
+        "local": "BAXI Manresa",
+        "puntos_local": 83,
+        "visitante": "Rio Breogan",
+        "puntos_visitante": 68,
+        "jornada": 20
+    },
+    {
+        "local": "Basquet Girona",
+        "puntos_local": 80,
+        "visitante": "Coviran Granada",
+        "puntos_visitante": 61,
+        "jornada": 20
+    },
+    {
+        "local": "Dreamland Gran Canaria",
+        "puntos_local": 100,
+        "visitante": "Real Madrid",
+        "puntos_visitante": 77,
+        "jornada": 20
+    },
+    {
+        "local": "FC Barcelona",
+        "puntos_local": 102,
+        "visitante": "Zunder Palencia",
+        "puntos_visitante": 94,
+        "jornada": 20
+    },
+    {
+        "local": "Baskonia Vitoria-Gasteiz",
+        "puntos_local": 89,
+        "visitante": "Monbus Obradoiro",
+        "puntos_visitante": 79,
+        "jornada": 20
+    },
+    {
+        "local": "Valencia Basket",
+        "puntos_local": 63,
+        "visitante": "Unicaja Malaga",
+        "puntos_visitante": 83,
+        "jornada": 20
+    },
+    {
+        "local": "Casademont Zaragoza",
+        "puntos_local": 63,
+        "visitante": "Rio Breogan",
+        "puntos_visitante": 61,
+        "jornada": 21
+    },
+    {
+        "local": "Joventut Badalona",
+        "puntos_local": 89,
+        "visitante": "Zunder Palencia",
+        "puntos_visitante": 77,
+        "jornada": 21
+    },
+    {
+        "local": "Unicaja Malaga",
+        "puntos_local": 92,
+        "visitante": "MoraBanc Andorra",
+        "puntos_visitante": 86,
+        "jornada": 21
+    },
+    {
+        "local": "UCAM Murcia",
+        "puntos_local": 96,
+        "visitante": "Surne Bilbao",
+        "puntos_visitante": 76,
+        "jornada": 21
+    },
+    {
+        "local": "Real Madrid",
+        "puntos_local": 92,
+        "visitante": "Basquet Girona",
+        "puntos_visitante": 79,
+        "jornada": 21
+    },
+    {
+        "local": "Lenovo Tenerife",
+        "puntos_local": 95,
+        "visitante": "Baskonia Vitoria-Gasteiz",
+        "puntos_visitante": 78,
+        "jornada": 21
+    },
+    {
+        "local": "Monbus Obradoiro",
+        "puntos_local": 72,
+        "visitante": "Dreamland Gran Canaria",
+        "puntos_visitante": 81,
+        "jornada": 21
+    },
+    {
+        "local": "Coviran Granada",
+        "puntos_local": 93,
+        "visitante": "BAXI Manresa",
+        "puntos_visitante": 94,
+        "jornada": 21
+    },
+    {
+        "local": "FC Barcelona",
+        "puntos_local": 76,
+        "visitante": "Valencia Basket",
+        "puntos_visitante": 79,
+        "jornada": 21
+    },
+    {
+        "local": "Monbus Obradoiro",
+        "puntos_local": 78,
+        "visitante": "Unicaja Malaga",
+        "puntos_visitante": 90,
+        "jornada": 22
+    },
+    {
+        "local": "Zunder Palencia",
+        "puntos_local": 82,
+        "visitante": "Dreamland Gran Canaria",
+        "puntos_visitante": 58,
+        "jornada": 22
+    },
+    {
+        "local": "MoraBanc Andorra",
+        "puntos_local": 93,
+        "visitante": "Basquet Girona",
+        "puntos_visitante": 66,
+        "jornada": 22
+    },
+    {
+        "local": "Casademont Zaragoza",
+        "puntos_local": 100,
+        "visitante": "Lenovo Tenerife",
+        "puntos_visitante": 106,
+        "jornada": 22
+    },
+    {
+        "local": "Surne Bilbao",
+        "puntos_local": 93,
+        "visitante": "Valencia Basket",
+        "puntos_visitante": 78,
+        "jornada": 22
+    },
+    {
+        "local": "Rio Breogan",
+        "puntos_local": 73,
+        "visitante": "Real Madrid",
+        "puntos_visitante": 80,
+        "jornada": 22
+    },
+    {
+        "local": "Baskonia Vitoria-Gasteiz",
+        "puntos_local": 78,
+        "visitante": "Joventut Badalona",
+        "puntos_visitante": 81,
+        "jornada": 22
+    },
+    {
+        "local": "UCAM Murcia",
+        "puntos_local": 91,
+        "visitante": "Coviran Granada",
+        "puntos_visitante": 78,
+        "jornada": 22
+    },
+    {
+        "local": "BAXI Manresa",
+        "puntos_local": 77,
+        "visitante": "FC Barcelona",
+        "puntos_visitante": 87,
+        "jornada": 22
+    },
+    {
+        "local": "BAXI Manresa",
+        "puntos_local": 83,
+        "visitante": "UCAM Murcia",
+        "puntos_visitante": 88,
+        "jornada": 23
+    },
+    {
+        "local": "Unicaja Malaga",
+        "puntos_local": 101,
+        "visitante": "Surne Bilbao",
+        "puntos_visitante": 84,
+        "jornada": 23
+    },
+    {
+        "local": "Joventut Badalona",
+        "puntos_local": 78,
+        "visitante": "Rio Breogan",
+        "puntos_visitante": 70,
+        "jornada": 23
+    },
+    {
+        "local": "Lenovo Tenerife",
+        "puntos_local": 89,
+        "visitante": "Coviran Granada",
+        "puntos_visitante": 83,
+        "jornada": 23
+    },
+    {
+        "local": "MoraBanc Andorra",
+        "puntos_local": 70,
+        "visitante": "Real Madrid",
+        "puntos_visitante": 89,
+        "jornada": 23
+    },
+    {
+        "local": "Basquet Girona",
+        "puntos_local": 78,
+        "visitante": "Monbus Obradoiro",
+        "puntos_visitante": 77,
+        "jornada": 23
+    },
+    {
+        "local": "Valencia Basket",
+        "puntos_local": 111,
+        "visitante": "Zunder Palencia",
+        "puntos_visitante": 93,
+        "jornada": 23
+    },
+    {
+        "local": "FC Barcelona",
+        "puntos_local": 109,
+        "visitante": "Casademont Zaragoza",
+        "puntos_visitante": 68,
+        "jornada": 23
+    },
+    {
+        "local": "Dreamland Gran Canaria",
+        "puntos_local": 98,
+        "visitante": "Baskonia Vitoria-Gasteiz",
+        "puntos_visitante": 80,
+        "jornada": 23
+    },
+    {
+        "local": "Joventut Badalona",
+        "puntos_local": 81,
+        "visitante": "BAXI Manresa",
+        "puntos_visitante": 83,
+        "jornada": 24
+    },
+    {
+        "local": "Rio Breogan",
+        "puntos_local": 65,
+        "visitante": "Unicaja Malaga",
+        "puntos_visitante": 76,
+        "jornada": 24
+    },
+    {
+        "local": "Dreamland Gran Canaria",
+        "puntos_local": 111,
+        "visitante": "Casademont Zaragoza",
+        "puntos_visitante": 85,
+        "jornada": 24
+    },
+    {
+        "local": "UCAM Murcia",
+        "puntos_local": 81,
+        "visitante": "Basquet Girona",
+        "puntos_visitante": 73,
+        "jornada": 24
+    },
+    {
+        "local": "Real Madrid",
+        "puntos_local": 80,
+        "visitante": "Lenovo Tenerife",
+        "puntos_visitante": 78,
+        "jornada": 24
+    },
+    {
+        "local": "Monbus Obradoiro",
+        "puntos_local": 75,
+        "visitante": "Valencia Basket",
+        "puntos_visitante": 97,
+        "jornada": 24
+    },
+    {
+        "local": "Coviran Granada",
+        "puntos_local": 87,
+        "visitante": "Surne Bilbao",
+        "puntos_visitante": 79,
+        "jornada": 24
+    },
+    {
+        "local": "Zunder Palencia",
+        "puntos_local": 77,
+        "visitante": "MoraBanc Andorra",
+        "puntos_visitante": 70,
+        "jornada": 24
+    },
+    {
+        "local": "Baskonia Vitoria-Gasteiz",
+        "puntos_local": 103,
+        "visitante": "FC Barcelona",
+        "puntos_visitante": 96,
+        "jornada": 24
+    },
+    {
+        "local": "Baskonia Vitoria-Gasteiz",
+        "puntos_local": 104,
+        "visitante": "Coviran Granada",
+        "puntos_visitante": 88,
+        "jornada": 25
+    },
+    {
+        "local": "UCAM Murcia",
+        "puntos_local": 94,
+        "visitante": "Monbus Obradoiro",
+        "puntos_visitante": 81,
+        "jornada": 25
+    },
+    {
+        "local": "BAXI Manresa",
+        "puntos_local": 78,
+        "visitante": "Dreamland Gran Canaria",
+        "puntos_visitante": 71,
+        "jornada": 25
+    },
+    {
+        "local": "MoraBanc Andorra",
+        "puntos_local": 66,
+        "visitante": "Lenovo Tenerife",
+        "puntos_visitante": 79,
+        "jornada": 25
+    },
+    {
+        "local": "FC Barcelona",
+        "puntos_local": 85,
+        "visitante": "Rio Breogan",
+        "puntos_visitante": 88,
+        "jornada": 25
+    },
+    {
+        "local": "Surne Bilbao",
+        "puntos_local": 92,
+        "visitante": "Joventut Badalona",
+        "puntos_visitante": 71,
+        "jornada": 25
+    },
+    {
+        "local": "Casademont Zaragoza",
+        "puntos_local": 103,
+        "visitante": "Zunder Palencia",
+        "puntos_visitante": 96,
+        "jornada": 25
+    },
+    {
+        "local": "Basquet Girona",
+        "puntos_local": 92,
+        "visitante": "Valencia Basket",
+        "puntos_visitante": 88,
+        "jornada": 25
+    },
+    {
+        "local": "Unicaja Malaga",
+        "puntos_local": 81,
+        "visitante": "Real Madrid",
+        "puntos_visitante": 87,
+        "jornada": 25
+    },
+    {
+        "local": "Basquet Girona",
+        "puntos_local": 83,
+        "visitante": "BAXI Manresa",
+        "puntos_visitante": 84,
+        "jornada": 26
+    },
+    {
+        "local": "Coviran Granada",
+        "puntos_local": 62,
+        "visitante": "Unicaja Malaga",
+        "puntos_visitante": 90,
+        "jornada": 26
+    },
+    {
+        "local": "Monbus Obradoiro",
+        "puntos_local": 83,
+        "visitante": "Rio Breogan",
+        "puntos_visitante": 72,
+        "jornada": 26
+    },
+    {
+        "local": "MoraBanc Andorra",
+        "puntos_local": 85,
+        "visitante": "Casademont Zaragoza",
+        "puntos_visitante": 80,
+        "jornada": 26
+    },
+    {
+        "local": "Zunder Palencia",
+        "puntos_local": 78,
+        "visitante": "Real Madrid",
+        "puntos_visitante": 86,
+        "jornada": 26
+    },
+    {
+        "local": "Lenovo Tenerife",
+        "puntos_local": 93,
+        "visitante": "Dreamland Gran Canaria",
+        "puntos_visitante": 92,
+        "jornada": 26
+    },
+    {
+        "local": "Surne Bilbao",
+        "puntos_local": 82,
+        "visitante": "Baskonia Vitoria-Gasteiz",
+        "puntos_visitante": 80,
+        "jornada": 26
+    },
+    {
+        "local": "Valencia Basket",
+        "puntos_local": 83,
+        "visitante": "UCAM Murcia",
+        "puntos_visitante": 82,
+        "jornada": 26
+    },
+    {
+        "local": "Joventut Badalona",
+        "puntos_local": 75,
+        "visitante": "FC Barcelona",
+        "puntos_visitante": 93,
+        "jornada": 26
+    },
+    {
+        "local": "Zunder Palencia",
+        "puntos_local": 68,
+        "visitante": "Lenovo Tenerife",
+        "puntos_visitante": 89,
+        "jornada": 27
+    },
+    {
+        "local": "Rio Breogan",
+        "puntos_local": 68,
+        "visitante": "Surne Bilbao",
+        "puntos_visitante": 80,
+        "jornada": 27
+    },
+    {
+        "local": "Unicaja Malaga",
+        "puntos_local": 111,
+        "visitante": "Basquet Girona",
+        "puntos_visitante": 80,
+        "jornada": 27
+    },
+    {
+        "local": "Baskonia Vitoria-Gasteiz",
+        "puntos_local": 102,
+        "visitante": "Casademont Zaragoza",
+        "puntos_visitante": 94,
+        "jornada": 27
+    },
+    {
+        "local": "Real Madrid",
+        "puntos_local": 72,
+        "visitante": "BAXI Manresa",
+        "puntos_visitante": 83,
+        "jornada": 27
+    },
+    {
+        "local": "Dreamland Gran Canaria",
+        "puntos_local": 79,
+        "visitante": "Valencia Basket",
+        "puntos_visitante": 71,
+        "jornada": 27
+    },
+    {
+        "local": "UCAM Murcia",
+        "puntos_local": 99,
+        "visitante": "MoraBanc Andorra",
+        "puntos_visitante": 86,
+        "jornada": 27
+    },
+    {
+        "local": "Coviran Granada",
+        "puntos_local": 86,
+        "visitante": "Joventut Badalona",
+        "puntos_visitante": 83,
+        "jornada": 27
+    },
+    {
+        "local": "Monbus Obradoiro",
+        "puntos_local": 84,
+        "visitante": "FC Barcelona",
+        "puntos_visitante": 89,
+        "jornada": 27
+    },
+    {
+        "local": "Surne Bilbao",
+        "puntos_local": 81,
+        "visitante": "Dreamland Gran Canaria",
+        "puntos_visitante": 71,
+        "jornada": 28
+    },
+    {
+        "local": "Casademont Zaragoza",
+        "puntos_local": 98,
+        "visitante": "Monbus Obradoiro",
+        "puntos_visitante": 79,
+        "jornada": 28
+    },
+    {
+        "local": "Rio Breogan",
+        "puntos_local": 73,
+        "visitante": "Zunder Palencia",
+        "puntos_visitante": 65,
+        "jornada": 28
+    },
+    {
+        "local": "Joventut Badalona",
+        "puntos_local": 75,
+        "visitante": "UCAM Murcia",
+        "puntos_visitante": 82,
+        "jornada": 28
+    },
+    {
+        "local": "BAXI Manresa",
+        "puntos_local": 77,
+        "visitante": "Unicaja Malaga",
+        "puntos_visitante": 88,
+        "jornada": 28
+    },
+    {
+        "local": "Lenovo Tenerife",
+        "puntos_local": 74,
+        "visitante": "Basquet Girona",
+        "puntos_visitante": 60,
+        "jornada": 28
+    },
+    {
+        "local": "Valencia Basket",
+        "puntos_local": 111,
+        "visitante": "Baskonia Vitoria-Gasteiz",
+        "puntos_visitante": 101,
+        "jornada": 28
+    },
+    {
+        "local": "MoraBanc Andorra",
+        "puntos_local": 88,
+        "visitante": "Coviran Granada",
+        "puntos_visitante": 62,
+        "jornada": 28
+    },
+    {
+        "local": "FC Barcelona",
+        "puntos_local": 85,
+        "visitante": "Real Madrid",
+        "puntos_visitante": 79,
+        "jornada": 28
+    },
+    {
+        "local": "UCAM Murcia",
+        "puntos_local": 90,
+        "visitante": "Zunder Palencia",
+        "puntos_visitante": 77,
+        "jornada": 29
+    },
+    {
+        "local": "Monbus Obradoiro",
+        "puntos_local": 86,
+        "visitante": "BAXI Manresa",
+        "puntos_visitante": 94,
+        "jornada": 29
+    },
+    {
+        "local": "Lenovo Tenerife",
+        "puntos_local": 101,
+        "visitante": "Surne Bilbao",
+        "puntos_visitante": 84,
+        "jornada": 29
+    },
+    {
+        "local": "Unicaja Malaga",
+        "puntos_local": 83,
+        "visitante": "Casademont Zaragoza",
+        "puntos_visitante": 72,
+        "jornada": 29
+    },
+    {
+        "local": "Baskonia Vitoria-Gasteiz",
+        "puntos_local": 76,
+        "visitante": "Rio Breogan",
+        "puntos_visitante": 74,
+        "jornada": 29
+    },
+    {
+        "local": "Basquet Girona",
+        "puntos_local": 75,
+        "visitante": "FC Barcelona",
+        "puntos_visitante": 81,
+        "jornada": 29
+    },
+    {
+        "local": "Dreamland Gran Canaria",
+        "puntos_local": 97,
+        "visitante": "MoraBanc Andorra",
+        "puntos_visitante": 92,
+        "jornada": 29
+    },
+    {
+        "local": "Coviran Granada",
+        "puntos_local": 81,
+        "visitante": "Valencia Basket",
+        "puntos_visitante": 88,
+        "jornada": 29
+    },
+    {
+        "local": "Real Madrid",
+        "puntos_local": 95,
+        "visitante": "Joventut Badalona",
+        "puntos_visitante": 92,
+        "jornada": 29
+    },
+    {
+        "local": "BAXI Manresa",
+        "puntos_local": 90,
+        "visitante": "MoraBanc Andorra",
+        "puntos_visitante": 97,
+        "jornada": 30
+    },
+    {
+        "local": "Rio Breogan",
+        "puntos_local": 70,
+        "visitante": "Dreamland Gran Canaria",
+        "puntos_visitante": 77,
+        "jornada": 30
+    },
+    {
+        "local": "Zunder Palencia",
+        "puntos_local": 83,
+        "visitante": "Coviran Granada",
+        "puntos_visitante": 91,
+        "jornada": 30
+    },
+    {
+        "local": "FC Barcelona",
+        "puntos_local": 97,
+        "visitante": "UCAM Murcia",
+        "puntos_visitante": 86,
+        "jornada": 30
+    },
+    {
+        "local": "Joventut Badalona",
+        "puntos_local": 96,
+        "visitante": "Basquet Girona",
+        "puntos_visitante": 90,
+        "jornada": 30
+    },
+    {
+        "local": "Casademont Zaragoza",
+        "puntos_local": 70,
+        "visitante": "Real Madrid",
+        "puntos_visitante": 79,
+        "jornada": 30
+    },
+    {
+        "local": "Surne Bilbao",
+        "puntos_local": 72,
+        "visitante": "Monbus Obradoiro",
+        "puntos_visitante": 75,
+        "jornada": 30
+    },
+    {
+        "local": "Valencia Basket",
+        "puntos_local": 98,
+        "visitante": "Lenovo Tenerife",
+        "puntos_visitante": 73,
+        "jornada": 30
+    },
+    {
+        "local": "Unicaja Malaga",
+        "puntos_local": 95,
+        "visitante": "Baskonia Vitoria-Gasteiz",
+        "puntos_visitante": 91,
+        "jornada": 30
+    },
+    {
+        "local": "Coviran Granada",
+        "puntos_local": 84,
+        "visitante": "Rio Breogan",
+        "puntos_visitante": 85,
+        "jornada": 31
+    },
+    {
+        "local": "Zunder Palencia",
+        "puntos_local": 94,
+        "visitante": "Baskonia Vitoria-Gasteiz",
+        "puntos_visitante": 101,
+        "jornada": 31
+    },
+    {
+        "local": "Basquet Girona",
+        "puntos_local": 81,
+        "visitante": "Surne Bilbao",
+        "puntos_visitante": 68,
+        "jornada": 31
+    },
+    {
+        "local": "Dreamland Gran Canaria",
+        "puntos_local": 97,
+        "visitante": "Joventut Badalona",
+        "puntos_visitante": 79,
+        "jornada": 31
+    },
+    {
+        "local": "Real Madrid",
+        "puntos_local": 79,
+        "visitante": "Monbus Obradoiro",
+        "puntos_visitante": 69,
+        "jornada": 31
+    },
+    {
+        "local": "BAXI Manresa",
+        "puntos_local": 98,
+        "visitante": "Valencia Basket",
+        "puntos_visitante": 96,
+        "jornada": 31
+    },
+    {
+        "local": "MoraBanc Andorra",
+        "puntos_local": 108,
+        "visitante": "FC Barcelona",
+        "puntos_visitante": 92,
+        "jornada": 31
+    },
+    {
+        "local": "UCAM Murcia",
+        "puntos_local": 82,
+        "visitante": "Casademont Zaragoza",
+        "puntos_visitante": 77,
+        "jornada": 31
+    },
+    {
+        "local": "Lenovo Tenerife",
+        "puntos_local": 87,
+        "visitante": "Unicaja Malaga",
+        "puntos_visitante": 86,
+        "jornada": 31
+    },
+    {
+        "local": "Surne Bilbao",
+        "puntos_local": 80,
+        "visitante": "Zunder Palencia",
+        "puntos_visitante": 97,
+        "jornada": 32
+    },
+    {
+        "local": "Valencia Basket",
+        "puntos_local": 83,
+        "visitante": "Joventut Badalona",
+        "puntos_visitante": 76,
+        "jornada": 32
+    },
+    {
+        "local": "Monbus Obradoiro",
+        "puntos_local": 101,
+        "visitante": "MoraBanc Andorra",
+        "puntos_visitante": 89,
+        "jornada": 32
+    },
+    {
+        "local": "Casademont Zaragoza",
+        "puntos_local": 90,
+        "visitante": "BAXI Manresa",
+        "puntos_visitante": 80,
+        "jornada": 32
+    },
+    {
+        "local": "Real Madrid",
+        "puntos_local": 94,
+        "visitante": "Coviran Granada",
+        "puntos_visitante": 80,
+        "jornada": 32
+    },
+    {
+        "local": "Rio Breogan",
+        "puntos_local": 76,
+        "visitante": "Lenovo Tenerife",
+        "puntos_visitante": 54,
+        "jornada": 32
+    },
+    {
+        "local": "FC Barcelona",
+        "puntos_local": 95,
+        "visitante": "Dreamland Gran Canaria",
+        "puntos_visitante": 89,
+        "jornada": 32
+    },
+    {
+        "local": "Baskonia Vitoria-Gasteiz",
+        "puntos_local": 92,
+        "visitante": "Basquet Girona",
+        "puntos_visitante": 96,
+        "jornada": 32
+    },
+    {
+        "local": "Unicaja Malaga",
+        "puntos_local": 96,
+        "visitante": "UCAM Murcia",
+        "puntos_visitante": 71,
+        "jornada": 32
+    },
+    {
+        "local": "Zunder Palencia",
+        "puntos_local": 75,
+        "visitante": "Monbus Obradoiro",
+        "puntos_visitante": 81,
+        "jornada": 33
+    },
+    {
+        "local": "BAXI Manresa",
+        "puntos_local": 90,
+        "visitante": "Surne Bilbao",
+        "puntos_visitante": 81,
+        "jornada": 33
+    },
+    {
+        "local": "Joventut Badalona",
+        "puntos_local": 96,
+        "visitante": "Lenovo Tenerife",
+        "puntos_visitante": 88,
+        "jornada": 33
+    },
+    {
+        "local": "Baskonia Vitoria-Gasteiz",
+        "puntos_local": 94,
+        "visitante": "UCAM Murcia",
+        "puntos_visitante": 79,
+        "jornada": 33
+    },
+    {
+        "local": "FC Barcelona",
+        "puntos_local": 91,
+        "visitante": "Unicaja Malaga",
+        "puntos_visitante": 92,
+        "jornada": 33
+    },
+    {
+        "local": "Rio Breogan",
+        "puntos_local": 97,
+        "visitante": "MoraBanc Andorra",
+        "puntos_visitante": 92,
+        "jornada": 33
+    },
+    {
+        "local": "Casademont Zaragoza",
+        "puntos_local": 77,
+        "visitante": "Coviran Granada",
+        "puntos_visitante": 84,
+        "jornada": 33
+    },
+    {
+        "local": "Valencia Basket",
+        "puntos_local": 99,
+        "visitante": "Real Madrid",
+        "puntos_visitante": 93,
+        "jornada": 33
+    },
+    {
+        "local": "Dreamland Gran Canaria",
+        "puntos_local": 78,
+        "visitante": "Basquet Girona",
+        "puntos_visitante": 86,
+        "jornada": 33
+    },
+    {
+        "local": "Coviran Granada",
+        "puntos_local": 74,
+        "visitante": "Dreamland Gran Canaria",
+        "puntos_visitante": 67,
+        "jornada": 34
+    },
+    {
+        "local": "Real Madrid",
+        "puntos_local": 106,
+        "visitante": "Baskonia Vitoria-Gasteiz",
+        "puntos_visitante": 100,
+        "jornada": 34
+    },
+    {
+        "local": "Monbus Obradoiro",
+        "puntos_local": 97,
+        "visitante": "Joventut Badalona",
+        "puntos_visitante": 71,
+        "jornada": 34
+    },
+    {
+        "local": "Surne Bilbao",
+        "puntos_local": 68,
+        "visitante": "FC Barcelona",
+        "puntos_visitante": 72,
+        "jornada": 34
+    },
+    {
+        "local": "MoraBanc Andorra",
+        "puntos_local": 99,
+        "visitante": "Valencia Basket",
+        "puntos_visitante": 71,
+        "jornada": 34
+    },
+    {
+        "local": "Basquet Girona",
+        "puntos_local": 79,
+        "visitante": "Casademont Zaragoza",
+        "puntos_visitante": 89,
+        "jornada": 34
+    },
+    {
+        "local": "Lenovo Tenerife",
+        "puntos_local": 84,
+        "visitante": "BAXI Manresa",
+        "puntos_visitante": 80,
+        "jornada": 34
+    },
+    {
+        "local": "UCAM Murcia",
+        "puntos_local": 68,
+        "visitante": "Rio Breogan",
+        "puntos_visitante": 61,
+        "jornada": 34
+    },
+    {
+        "local": "Unicaja Malaga",
+        "puntos_local": 93,
+        "visitante": "Zunder Palencia",
+        "puntos_visitante": 69,
+        "jornada": 34
+    }
+]

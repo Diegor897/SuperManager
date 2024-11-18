@@ -1,0 +1,63 @@
+h2 {
+    flex: 1;
+    text-align: center;
+    color: #ffffff;
+}
+
+.usuario-info {
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.equipo-local,
+.equipo-visitante,
+.hora {
+    flex: 1;
+    text-align: center;
+}
+
+.usuario-info {
+    margin-bottom: 20px;
+}
+
+.calendario {
+    border: 2px solid #000000;
+    border-radius: 20px;
+    padding: 20px;
+    background-color: #000000d4;
+    margin-bottom: 20px; /* Agregar margen inferior entre los divs */
+}
+
+.lista-partidos {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.partido {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #d4d3d3;
+    border-radius: 5px;
+    background-color: #dbd8d8;
+}
+
+.fecha {
+    text-align: center;
+    font-style: italic;
+    margin-bottom: 5px;
+}
+
+.partido-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.equipo-local,
+.equipo-visitante, 
+.hora {
+    flex: 1;
+    text-align: center;
+    font-weight: bold;
+}

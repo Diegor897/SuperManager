@@ -1,0 +1,3022 @@
+[
+    {
+        "nombre": "Cristiano Felicio",
+        "pais": "BRASILE\u00d1O",
+        "equipo": "Coviran Granada",
+        "posicion": "Pivot",
+        "partidos_jugados": 34,
+        "puntos_totales": 347,
+        "valoracion_total": 423,
+        "valor_de_mercado": 510500.0
+    },
+    {
+        "nombre": "Joe Thomasson",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Coviran Granada",
+        "posicion": "Alero",
+        "partidos_jugados": 20,
+        "puntos_totales": 281,
+        "valoracion_total": 266,
+        "valor_de_mercado": 702500.0
+    },
+    {
+        "nombre": "Kwan Cheatham",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Coviran Granada",
+        "posicion": "Pivot",
+        "partidos_jugados": 34,
+        "puntos_totales": 442,
+        "valoracion_total": 412,
+        "valor_de_mercado": 650000.0
+    },
+    {
+        "nombre": "Lluis Costa",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Coviran Granada",
+        "posicion": "Base",
+        "partidos_jugados": 32,
+        "puntos_totales": 355,
+        "valoracion_total": 357,
+        "valor_de_mercado": 554500.0
+    },
+    {
+        "nombre": "Yiftach Ziv",
+        "pais": "ISRAEL\u00cd",
+        "equipo": "Coviran Granada",
+        "posicion": "Base",
+        "partidos_jugados": 7,
+        "puntos_totales": 37,
+        "valoracion_total": 39,
+        "valor_de_mercado": 264500.0
+    },
+    {
+        "nombre": "Pere Tomas",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Coviran Granada",
+        "posicion": "Pivot",
+        "partidos_jugados": 34,
+        "puntos_totales": 121,
+        "valoracion_total": 158,
+        "valor_de_mercado": 178000.0
+    },
+    {
+        "nombre": "Artur Konontsuk",
+        "pais": "ESTONIO",
+        "equipo": "Coviran Granada",
+        "posicion": "Alero",
+        "partidos_jugados": 16,
+        "puntos_totales": 30,
+        "valoracion_total": 28,
+        "valor_de_mercado": 94000.0
+    },
+    {
+        "nombre": "David Kramer",
+        "pais": "AUSTR\u00cdACO",
+        "equipo": "Coviran Granada",
+        "posicion": "Alero",
+        "partidos_jugados": 33,
+        "puntos_totales": 336,
+        "valoracion_total": 263,
+        "valor_de_mercado": 509000.0
+    },
+    {
+        "nombre": "David Iriarte",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Coviran Granada",
+        "posicion": "Pivot",
+        "partidos_jugados": 24,
+        "puntos_totales": 54,
+        "valoracion_total": 58,
+        "valor_de_mercado": 112500.0
+    },
+    {
+        "nombre": "German Martinez",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Coviran Granada",
+        "posicion": "Base",
+        "partidos_jugados": 17,
+        "puntos_totales": 39,
+        "valoracion_total": 30,
+        "valor_de_mercado": 114500.0
+    },
+    {
+        "nombre": "Evaldas Kairys",
+        "pais": "LITUANO",
+        "equipo": "Coviran Granada",
+        "posicion": "Alero",
+        "partidos_jugados": 18,
+        "puntos_totales": 95,
+        "valoracion_total": 126,
+        "valor_de_mercado": 264000.0
+    },
+    {
+        "nombre": "Dylan Ennis",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "UCAM Murcia",
+        "posicion": "Base",
+        "partidos_jugados": 34,
+        "puntos_totales": 488,
+        "valoracion_total": 440,
+        "valor_de_mercado": 717500.0
+    },
+    {
+        "nombre": "Ludvig Hakanson",
+        "pais": "SUECO",
+        "equipo": "UCAM Murcia",
+        "posicion": "Base",
+        "partidos_jugados": 26,
+        "puntos_totales": 259,
+        "valoracion_total": 251,
+        "valor_de_mercado": 498000.0
+    },
+    {
+        "nombre": "Simon Birgander",
+        "pais": "SUECO",
+        "equipo": "UCAM Murcia",
+        "posicion": "Pivot",
+        "partidos_jugados": 19,
+        "puntos_totales": 204,
+        "valoracion_total": 307,
+        "valor_de_mercado": 537000.0
+    },
+    {
+        "nombre": "Nemanja Radovic",
+        "pais": "MONTENEGRINO",
+        "equipo": "UCAM Murcia",
+        "posicion": "Pivot",
+        "partidos_jugados": 33,
+        "puntos_totales": 263,
+        "valoracion_total": 282,
+        "valor_de_mercado": 398500.0
+    },
+    {
+        "nombre": "Thaddus McFadden",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Casademont Zaragoza",
+        "posicion": "Base",
+        "partidos_jugados": 30,
+        "puntos_totales": 216,
+        "valoracion_total": 155,
+        "valor_de_mercado": 360000.0
+    },
+    {
+        "nombre": "Dustin Sleva",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "UCAM Murcia",
+        "posicion": "Pivot",
+        "partidos_jugados": 34,
+        "puntos_totales": 290,
+        "valoracion_total": 371,
+        "valor_de_mercado": 426500.0
+    },
+    {
+        "nombre": "Troy Caupain",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "UCAM Murcia",
+        "posicion": "Alero",
+        "partidos_jugados": 33,
+        "puntos_totales": 246,
+        "valoracion_total": 241,
+        "valor_de_mercado": 372500.0
+    },
+    {
+        "nombre": "Rodions Kurucs",
+        "pais": "LET\u00d3N",
+        "equipo": "UCAM Murcia",
+        "posicion": "Pivot",
+        "partidos_jugados": 28,
+        "puntos_totales": 187,
+        "valoracion_total": 218,
+        "valor_de_mercado": 334000.0
+    },
+    {
+        "nombre": "Howard Sant-Roos",
+        "pais": "CUBANO",
+        "equipo": "UCAM Murcia",
+        "posicion": "Alero",
+        "partidos_jugados": 31,
+        "puntos_totales": 211,
+        "valoracion_total": 305,
+        "valor_de_mercado": 340500.0
+    },
+    {
+        "nombre": "Moussa Diagne",
+        "pais": "SENEGAL\u00c9S",
+        "equipo": "UCAM Murcia",
+        "posicion": "Pivot",
+        "partidos_jugados": 31,
+        "puntos_totales": 129,
+        "valoracion_total": 182,
+        "valor_de_mercado": 208000.0
+    },
+    {
+        "nombre": "David Jelinek",
+        "pais": "CHECO",
+        "equipo": "UCAM Murcia",
+        "posicion": "Alero",
+        "partidos_jugados": 23,
+        "puntos_totales": 97,
+        "valoracion_total": 62,
+        "valor_de_mercado": 211000.0
+    },
+    {
+        "nombre": "Chris Jones",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Valencia Basket",
+        "posicion": "Base",
+        "partidos_jugados": 33,
+        "puntos_totales": 414,
+        "valoracion_total": 432,
+        "valor_de_mercado": 627500.0
+    },
+    {
+        "nombre": "Jared Harper",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Valencia Basket",
+        "posicion": "Base",
+        "partidos_jugados": 16,
+        "puntos_totales": 122,
+        "valoracion_total": 70,
+        "valor_de_mercado": 381000.0
+    },
+    {
+        "nombre": "Brandon Davies",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Valencia Basket",
+        "posicion": "Pivot",
+        "partidos_jugados": 26,
+        "puntos_totales": 381,
+        "valoracion_total": 422,
+        "valor_de_mercado": 732500.0
+    },
+    {
+        "nombre": "Joseph Puerto",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Valencia Basket",
+        "posicion": "Alero",
+        "partidos_jugados": 34,
+        "puntos_totales": 138,
+        "valoracion_total": 140,
+        "valor_de_mercado": 203000.0
+    },
+    {
+        "nombre": "Damien Inglis",
+        "pais": "FRANC\u00c9S",
+        "equipo": "Valencia Basket",
+        "posicion": "Pivot",
+        "partidos_jugados": 33,
+        "puntos_totales": 243,
+        "valoracion_total": 353,
+        "valor_de_mercado": 368000.0
+    },
+    {
+        "nombre": "Boubacar Toure",
+        "pais": "SENEGAL\u00c9S",
+        "equipo": "Valencia Basket",
+        "posicion": "Pivot",
+        "partidos_jugados": 14,
+        "puntos_totales": 56,
+        "valoracion_total": 95,
+        "valor_de_mercado": 200000.0
+    },
+    {
+        "nombre": "Kassius Robertson",
+        "pais": "CANADIENSE",
+        "equipo": "Valencia Basket",
+        "posicion": "Base",
+        "partidos_jugados": 23,
+        "puntos_totales": 198,
+        "valoracion_total": 155,
+        "valor_de_mercado": 430500.0
+    },
+    {
+        "nombre": "Jaime Pradilla",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Valencia Basket",
+        "posicion": "Pivot",
+        "partidos_jugados": 34,
+        "puntos_totales": 174,
+        "valoracion_total": 259,
+        "valor_de_mercado": 256000.0
+    },
+    {
+        "nombre": "Guillem Ferrando",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Valencia Basket",
+        "posicion": "Base",
+        "partidos_jugados": 6,
+        "puntos_totales": 9,
+        "valoracion_total": 8,
+        "valor_de_mercado": 81281.25
+    },
+    {
+        "nombre": "Victor Claver",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Valencia Basket",
+        "posicion": "Alero",
+        "partidos_jugados": 23,
+        "puntos_totales": 86,
+        "valoracion_total": 112,
+        "valor_de_mercado": 187000.0
+    },
+    {
+        "nombre": "Nate Reuvers",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Valencia Basket",
+        "posicion": "Pivot",
+        "partidos_jugados": 22,
+        "puntos_totales": 101,
+        "valoracion_total": 93,
+        "valor_de_mercado": 229500.0
+    },
+    {
+        "nombre": "Stefan Jovic",
+        "pais": "SERBIO",
+        "equipo": "Valencia Basket",
+        "posicion": "Base",
+        "partidos_jugados": 28,
+        "puntos_totales": 118,
+        "valoracion_total": 200,
+        "valor_de_mercado": 210500.0
+    },
+    {
+        "nombre": "Gyorgy Goloman",
+        "pais": "H\u00daNGARO",
+        "equipo": "Basquet Girona",
+        "posicion": "Pivot",
+        "partidos_jugados": 29,
+        "puntos_totales": 231,
+        "valoracion_total": 269,
+        "valor_de_mercado": 398500.0
+    },
+    {
+        "nombre": "Ike Iroegbu",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Basquet Girona",
+        "posicion": "Base",
+        "partidos_jugados": 32,
+        "puntos_totales": 491,
+        "valoracion_total": 349,
+        "valor_de_mercado": 767000.0
+    },
+    {
+        "nombre": "Mindaugas Susinskas",
+        "pais": "LITUANO",
+        "equipo": "Basquet Girona",
+        "posicion": "Pivot",
+        "partidos_jugados": 34,
+        "puntos_totales": 235,
+        "valoracion_total": 280,
+        "valor_de_mercado": 345500.0
+    },
+    {
+        "nombre": "Jaume Sorolla",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Basquet Girona",
+        "posicion": "Pivot",
+        "partidos_jugados": 29,
+        "puntos_totales": 74,
+        "valoracion_total": 97,
+        "valor_de_mercado": 127500.0
+    },
+    {
+        "nombre": "Yves Pons",
+        "pais": "FRANC\u00c9S",
+        "equipo": "Basquet Girona",
+        "posicion": "Alero",
+        "partidos_jugados": 29,
+        "puntos_totales": 233,
+        "valoracion_total": 263,
+        "valor_de_mercado": 401500.0
+    },
+    {
+        "nombre": "Juan Ignacio Marcos",
+        "pais": "ARGENTINO",
+        "equipo": "Basquet Girona",
+        "posicion": "Base",
+        "partidos_jugados": 22,
+        "puntos_totales": 213,
+        "valoracion_total": 241,
+        "valor_de_mercado": 484000.0
+    },
+    {
+        "nombre": "Quino Colom",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Basquet Girona",
+        "posicion": "Base",
+        "partidos_jugados": 32,
+        "puntos_totales": 196,
+        "valoracion_total": 205,
+        "valor_de_mercado": 306000.0
+    },
+    {
+        "nombre": "Eric Vila",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Basquet Girona",
+        "posicion": "Alero",
+        "partidos_jugados": 31,
+        "puntos_totales": 150,
+        "valoracion_total": 158,
+        "valor_de_mercado": 242000.0
+    },
+    {
+        "nombre": "Sergi Martinez",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Basquet Girona",
+        "posicion": "Pivot",
+        "partidos_jugados": 31,
+        "puntos_totales": 196,
+        "valoracion_total": 323,
+        "valor_de_mercado": 316000.0
+    },
+    {
+        "nombre": "Stefan Djordjevic",
+        "pais": "SERBIO",
+        "equipo": "Basquet Girona",
+        "posicion": "Pivot",
+        "partidos_jugados": 29,
+        "puntos_totales": 148,
+        "valoracion_total": 177,
+        "valor_de_mercado": 255000.0
+    },
+    {
+        "nombre": "Pau Sala",
+        "pais": "FRANC\u00c9S",
+        "equipo": "Basquet Girona",
+        "posicion": "Desconocida",
+        "partidos_jugados": 4,
+        "puntos_totales": 2,
+        "valoracion_total": 5,
+        "valor_de_mercado": 50000.0
+    },
+    {
+        "nombre": "Maximo Fjellerup",
+        "pais": "ARGENTINO",
+        "equipo": "Basquet Girona",
+        "posicion": "Alero",
+        "partidos_jugados": 26,
+        "puntos_totales": 121,
+        "valoracion_total": 118,
+        "valor_de_mercado": 232500.0
+    },
+    {
+        "nombre": "Kendrick Perry",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Unicaja Malaga",
+        "posicion": "Base",
+        "partidos_jugados": 33,
+        "puntos_totales": 316,
+        "valoracion_total": 327,
+        "valor_de_mercado": 479000.0
+    },
+    {
+        "nombre": "Melvin Ejim",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Unicaja Malaga",
+        "posicion": "Pivot",
+        "partidos_jugados": 33,
+        "puntos_totales": 224,
+        "valoracion_total": 252,
+        "valor_de_mercado": 339500.0
+    },
+    {
+        "nombre": "Kameron Taylor",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Unicaja Malaga",
+        "posicion": "Alero",
+        "partidos_jugados": 34,
+        "puntos_totales": 322,
+        "valoracion_total": 399,
+        "valor_de_mercado": 473500.0
+    },
+    {
+        "nombre": "Will Thomas",
+        "pais": "ESTADOUNIDENSE, GEORGIANO",
+        "equipo": "Unicaja Malaga",
+        "posicion": "Pivot",
+        "partidos_jugados": 34,
+        "puntos_totales": 210,
+        "valoracion_total": 263,
+        "valor_de_mercado": 309000.0
+    },
+    {
+        "nombre": "Jonathan Barreiro",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Unicaja Malaga",
+        "posicion": "Pivot",
+        "partidos_jugados": 24,
+        "puntos_totales": 94,
+        "valoracion_total": 118,
+        "valor_de_mercado": 196000.0
+    },
+    {
+        "nombre": "Tyson Carter",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Unicaja Malaga",
+        "posicion": "Base",
+        "partidos_jugados": 33,
+        "puntos_totales": 382,
+        "valoracion_total": 374,
+        "valor_de_mercado": 579000.0
+    },
+    {
+        "nombre": "Dylan Osetkowski",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Unicaja Malaga",
+        "posicion": "Pivot",
+        "partidos_jugados": 32,
+        "puntos_totales": 378,
+        "valoracion_total": 390,
+        "valor_de_mercado": 590500.0
+    },
+    {
+        "nombre": "Yankuba Sima",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Unicaja Malaga",
+        "posicion": "Pivot",
+        "partidos_jugados": 31,
+        "puntos_totales": 148,
+        "valoracion_total": 197,
+        "valor_de_mercado": 238500.0
+    },
+    {
+        "nombre": "Tyler Kalinoski",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Unicaja Malaga",
+        "posicion": "Alero",
+        "partidos_jugados": 34,
+        "puntos_totales": 261,
+        "valoracion_total": 262,
+        "valor_de_mercado": 384000.0
+    },
+    {
+        "nombre": "Nihad Djedovic",
+        "pais": "BOSNIO",
+        "equipo": "Unicaja Malaga",
+        "posicion": "Alero",
+        "partidos_jugados": 32,
+        "puntos_totales": 251,
+        "valoracion_total": 238,
+        "valor_de_mercado": 392000.0
+    },
+    {
+        "nombre": "Alberto Diaz",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Unicaja Malaga",
+        "posicion": "Base",
+        "partidos_jugados": 31,
+        "puntos_totales": 163,
+        "valoracion_total": 333,
+        "valor_de_mercado": 263000.0
+    },
+    {
+        "nombre": "Ilimane Diop",
+        "pais": "ESPA\u00d1OL, SENEGAL\u00c9S",
+        "equipo": "Lenovo Tenerife",
+        "posicion": "Pivot",
+        "partidos_jugados": 14,
+        "puntos_totales": 45,
+        "valoracion_total": 54,
+        "valor_de_mercado": 160500.0
+    },
+    {
+        "nombre": "Jaime Fernandez",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Lenovo Tenerife",
+        "posicion": "Base",
+        "partidos_jugados": 22,
+        "puntos_totales": 212,
+        "valoracion_total": 183,
+        "valor_de_mercado": 482000.0
+    },
+    {
+        "nombre": "Dusan Ristic",
+        "pais": "SERBIA-MONTENEGRO",
+        "equipo": "Lenovo Tenerife",
+        "posicion": "Pivot",
+        "partidos_jugados": 17,
+        "puntos_totales": 119,
+        "valoracion_total": 127,
+        "valor_de_mercado": 350000.0
+    },
+    {
+        "nombre": "Tim Abromaitis",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Lenovo Tenerife",
+        "posicion": "Pivot",
+        "partidos_jugados": 34,
+        "puntos_totales": 269,
+        "valoracion_total": 324,
+        "valor_de_mercado": 395500.0
+    },
+    {
+        "nombre": "Giorgi Shermadini",
+        "pais": "GEORGIANO",
+        "equipo": "Lenovo Tenerife",
+        "posicion": "Pivot",
+        "partidos_jugados": 32,
+        "puntos_totales": 385,
+        "valoracion_total": 497,
+        "valor_de_mercado": 601500.0
+    },
+    {
+        "nombre": "Elgin Cook",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Lenovo Tenerife",
+        "posicion": "Alero",
+        "partidos_jugados": 31,
+        "puntos_totales": 173,
+        "valoracion_total": 205,
+        "valor_de_mercado": 279000.0
+    },
+    {
+        "nombre": "Marcelinho Huertas",
+        "pais": "BRASILE\u00d1O",
+        "equipo": "Lenovo Tenerife",
+        "posicion": "Base",
+        "partidos_jugados": 34,
+        "puntos_totales": 482,
+        "valoracion_total": 516,
+        "valor_de_mercado": 709000.0
+    },
+    {
+        "nombre": "Joan Sastre",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Lenovo Tenerife",
+        "posicion": "Alero",
+        "partidos_jugados": 33,
+        "puntos_totales": 190,
+        "valoracion_total": 248,
+        "valor_de_mercado": 288000.0
+    },
+    {
+        "nombre": "Aaron Doornekamp",
+        "pais": "CANADIENSE",
+        "equipo": "Lenovo Tenerife",
+        "posicion": "Alero",
+        "partidos_jugados": 29,
+        "puntos_totales": 199,
+        "valoracion_total": 257,
+        "valor_de_mercado": 343000.0
+    },
+    {
+        "nombre": "Bruno Fitipaldo",
+        "pais": "URUGUAYO, ITALIANO",
+        "equipo": "Lenovo Tenerife",
+        "posicion": "Base",
+        "partidos_jugados": 34,
+        "puntos_totales": 251,
+        "valoracion_total": 238,
+        "valor_de_mercado": 369000.0
+    },
+    {
+        "nombre": "Sasu Salin",
+        "pais": "FINLAND\u00c9S",
+        "equipo": "Lenovo Tenerife",
+        "posicion": "Base",
+        "partidos_jugados": 28,
+        "puntos_totales": 102,
+        "valoracion_total": 74,
+        "valor_de_mercado": 182000.0
+    },
+    {
+        "nombre": "Francisco Guerra",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Lenovo Tenerife",
+        "posicion": "Pivot",
+        "partidos_jugados": 21,
+        "puntos_totales": 132,
+        "valoracion_total": 189,
+        "valor_de_mercado": 314500.0
+    },
+    {
+        "nombre": "Edgar Vicedo",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Lenovo Tenerife",
+        "posicion": "Pivot",
+        "partidos_jugados": 23,
+        "puntos_totales": 38,
+        "valoracion_total": 67,
+        "valor_de_mercado": 82500.0
+    },
+    {
+        "nombre": "Tres Tinkle",
+        "pais": "",
+        "equipo": "Monbus Obradoiro",
+        "posicion": "Alero",
+        "partidos_jugados": 23,
+        "puntos_totales": 213,
+        "valoracion_total": 252,
+        "valor_de_mercado": 463000.0
+    },
+    {
+        "nombre": "Eric Washington",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Monbus Obradoiro",
+        "posicion": "Base",
+        "partidos_jugados": 5,
+        "puntos_totales": 56,
+        "valoracion_total": 46,
+        "valor_de_mercado": 560000.0
+    },
+    {
+        "nombre": "Jordan Howard",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Monbus Obradoiro",
+        "posicion": "Desconocida",
+        "partidos_jugados": 31,
+        "puntos_totales": 436,
+        "valoracion_total": 288,
+        "valor_de_mercado": 703000.0
+    },
+    {
+        "nombre": "Rigoberto Mendoza",
+        "pais": "DOMINICANO",
+        "equipo": "Monbus Obradoiro",
+        "posicion": "Base",
+        "partidos_jugados": 20,
+        "puntos_totales": 171,
+        "valoracion_total": 152,
+        "valor_de_mercado": 427500.0
+    },
+    {
+        "nombre": "Artem Pustovyi",
+        "pais": "UKRAINIAN",
+        "equipo": "Monbus Obradoiro",
+        "posicion": "Pivot",
+        "partidos_jugados": 34,
+        "puntos_totales": 458,
+        "valoracion_total": 536,
+        "valor_de_mercado": 673500.0
+    },
+    {
+        "nombre": "Thomas Scrubb",
+        "pais": "CANADIENSE, BRIT\u00c1NICO",
+        "equipo": "Monbus Obradoiro",
+        "posicion": "Alero",
+        "partidos_jugados": 34,
+        "puntos_totales": 403,
+        "valoracion_total": 511,
+        "valor_de_mercado": 592500.0
+    },
+    {
+        "nombre": "Marek Blazevic",
+        "pais": "LITUANO",
+        "equipo": "Monbus Obradoiro",
+        "posicion": "Pivot",
+        "partidos_jugados": 32,
+        "puntos_totales": 239,
+        "valoracion_total": 274,
+        "valor_de_mercado": 373500.0
+    },
+    {
+        "nombre": "Alvaro Munoz",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Monbus Obradoiro",
+        "posicion": "Base",
+        "partidos_jugados": 22,
+        "puntos_totales": 91,
+        "valoracion_total": 99,
+        "valor_de_mercado": 207000.0
+    },
+    {
+        "nombre": "Fernando Zurbriggen",
+        "pais": "ARGENTINO",
+        "equipo": "Monbus Obradoiro",
+        "posicion": "Base",
+        "partidos_jugados": 29,
+        "puntos_totales": 173,
+        "valoracion_total": 236,
+        "valor_de_mercado": 298500.0
+    },
+    {
+        "nombre": "Alejandro Suarez",
+        "pais": "CHILENO",
+        "equipo": "Monbus Obradoiro",
+        "posicion": "Pivot",
+        "partidos_jugados": 30,
+        "puntos_totales": 61,
+        "valoracion_total": 89,
+        "valor_de_mercado": 101500.0
+    },
+    {
+        "nombre": "Vitor Benite",
+        "pais": "ITALIANO",
+        "equipo": "Zunder Palencia",
+        "posicion": "Alero",
+        "partidos_jugados": 33,
+        "puntos_totales": 383,
+        "valoracion_total": 280,
+        "valor_de_mercado": 580500.0
+    },
+    {
+        "nombre": "Andzejs Pasecniks",
+        "pais": "LET\u00d3N",
+        "equipo": "Zunder Palencia",
+        "posicion": "Pivot",
+        "partidos_jugados": 34,
+        "puntos_totales": 441,
+        "valoracion_total": 453,
+        "valor_de_mercado": 648500.0
+    },
+    {
+        "nombre": "Jose Ortega",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Zunder Palencia",
+        "posicion": "Alero",
+        "partidos_jugados": 34,
+        "puntos_totales": 162,
+        "valoracion_total": 259,
+        "valor_de_mercado": 238000.0
+    },
+    {
+        "nombre": "Yannick Franke",
+        "pais": "NEERLAND\u00c9S",
+        "equipo": "Zunder Palencia",
+        "posicion": "Alero",
+        "partidos_jugados": 19,
+        "puntos_totales": 209,
+        "valoracion_total": 151,
+        "valor_de_mercado": 550000.0
+    },
+    {
+        "nombre": "Brandon Brown",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Zunder Palencia",
+        "posicion": "Base",
+        "partidos_jugados": 15,
+        "puntos_totales": 108,
+        "valoracion_total": 76,
+        "valor_de_mercado": 360000.0
+    },
+    {
+        "nombre": "Agustin Ubal",
+        "pais": "URUGUAYO",
+        "equipo": "Zunder Palencia",
+        "posicion": "Alero",
+        "partidos_jugados": 27,
+        "puntos_totales": 82,
+        "valoracion_total": 88,
+        "valor_de_mercado": 152000.0
+    },
+    {
+        "nombre": "Matt Haarms",
+        "pais": "NEERLAND\u00c9S",
+        "equipo": "Zunder Palencia",
+        "posicion": "Pivot",
+        "partidos_jugados": 34,
+        "puntos_totales": 177,
+        "valoracion_total": 250,
+        "valor_de_mercado": 260500.0
+    },
+    {
+        "nombre": "Ousmane Ndiaye",
+        "pais": "SENEGAL\u00c9S",
+        "equipo": "Zunder Palencia",
+        "posicion": "Pivot",
+        "partidos_jugados": 13,
+        "puntos_totales": 65,
+        "valoracion_total": 88,
+        "valor_de_mercado": 250000.0
+    },
+    {
+        "nombre": "Keye Van Der Vuurst",
+        "pais": "NEERLAND\u00c9S",
+        "equipo": "Zunder Palencia",
+        "posicion": "Base",
+        "partidos_jugados": 34,
+        "puntos_totales": 362,
+        "valoracion_total": 363,
+        "valor_de_mercado": 532500.0
+    },
+    {
+        "nombre": "Tanner Leissner",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Zunder Palencia",
+        "posicion": "Pivot",
+        "partidos_jugados": 5,
+        "puntos_totales": 2,
+        "valoracion_total": 6,
+        "valor_de_mercado": 50000.0
+    },
+    {
+        "nombre": "Manuel Rodriguez",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Zunder Palencia",
+        "posicion": "Alero",
+        "partidos_jugados": 16,
+        "puntos_totales": 18,
+        "valoracion_total": 19,
+        "valor_de_mercado": 56000.0
+    },
+    {
+        "nombre": "Mathieu Kamba",
+        "pais": "CONGOLE\u00d1O",
+        "equipo": "Zunder Palencia",
+        "posicion": "Desconocida",
+        "partidos_jugados": 34,
+        "puntos_totales": 175,
+        "valoracion_total": 284,
+        "valor_de_mercado": 257500.0
+    },
+    {
+        "nombre": "Walter Tavares",
+        "pais": "CABOVERDIANO",
+        "equipo": "Real Madrid",
+        "posicion": "Pivot",
+        "partidos_jugados": 27,
+        "puntos_totales": 254,
+        "valoracion_total": 435,
+        "valor_de_mercado": 470500.0
+    },
+    {
+        "nombre": "Alberto Abalde",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Real Madrid",
+        "posicion": "Alero",
+        "partidos_jugados": 32,
+        "puntos_totales": 171,
+        "valoracion_total": 244,
+        "valor_de_mercado": 267000.0
+    },
+    {
+        "nombre": "Dzanan Musa",
+        "pais": "BOSNIO",
+        "equipo": "Real Madrid",
+        "posicion": "Alero",
+        "partidos_jugados": 32,
+        "puntos_totales": 439,
+        "valoracion_total": 408,
+        "valor_de_mercado": 686000.0
+    },
+    {
+        "nombre": "Mario Hezonja",
+        "pais": "CROATA",
+        "equipo": "Real Madrid",
+        "posicion": "Alero",
+        "partidos_jugados": 30,
+        "puntos_totales": 319,
+        "valoracion_total": 331,
+        "valor_de_mercado": 531500.0
+    },
+    {
+        "nombre": "Sergio Llull",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Real Madrid",
+        "posicion": "Base",
+        "partidos_jugados": 28,
+        "puntos_totales": 218,
+        "valoracion_total": 171,
+        "valor_de_mercado": 389500.0
+    },
+    {
+        "nombre": "Guerschon Yabusele",
+        "pais": "FRANC\u00c9S",
+        "equipo": "Real Madrid",
+        "posicion": "Pivot",
+        "partidos_jugados": 24,
+        "puntos_totales": 223,
+        "valoracion_total": 222,
+        "valor_de_mercado": 464500.0
+    },
+    {
+        "nombre": "Fabien Causeur",
+        "pais": "FRANC\u00c9S",
+        "equipo": "Real Madrid",
+        "posicion": "Base",
+        "partidos_jugados": 28,
+        "puntos_totales": 174,
+        "valoracion_total": 178,
+        "valor_de_mercado": 310500.0
+    },
+    {
+        "nombre": "Vincent Poirier",
+        "pais": "FRANC\u00c9S",
+        "equipo": "Real Madrid",
+        "posicion": "Pivot",
+        "partidos_jugados": 33,
+        "puntos_totales": 280,
+        "valoracion_total": 442,
+        "valor_de_mercado": 424000.0
+    },
+    {
+        "nombre": "Hugo Gonzalez",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Real Madrid",
+        "posicion": "Alero",
+        "partidos_jugados": 10,
+        "puntos_totales": 30,
+        "valoracion_total": 29,
+        "valor_de_mercado": 150000.0
+    },
+    {
+        "nombre": "Facundo Campazzo",
+        "pais": "ARGENTINO",
+        "equipo": "Real Madrid",
+        "posicion": "Base",
+        "partidos_jugados": 31,
+        "puntos_totales": 353,
+        "valoracion_total": 443,
+        "valor_de_mercado": 569500.0
+    },
+    {
+        "nombre": "Eli Ndiaye",
+        "pais": "SENEGAL\u00c9S",
+        "equipo": "Real Madrid",
+        "posicion": "Pivot",
+        "partidos_jugados": 23,
+        "puntos_totales": 100,
+        "valoracion_total": 143,
+        "valor_de_mercado": 217500.0
+    },
+    {
+        "nombre": "Sergio Rodriguez",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Real Madrid",
+        "posicion": "Alero",
+        "partidos_jugados": 23,
+        "puntos_totales": 94,
+        "valoracion_total": 140,
+        "valor_de_mercado": 204500.0
+    },
+    {
+        "nombre": "Santi Yusta",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Casademont Zaragoza",
+        "posicion": "Alero",
+        "partidos_jugados": 31,
+        "puntos_totales": 385,
+        "valoracion_total": 356,
+        "valor_de_mercado": 621000.0
+    },
+    {
+        "nombre": "Jahlil Okafor",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Casademont Zaragoza",
+        "posicion": "Pivot",
+        "partidos_jugados": 11,
+        "puntos_totales": 129,
+        "valoracion_total": 151,
+        "valor_de_mercado": 586500.0
+    },
+    {
+        "nombre": "Miguel Gonzalez",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Casademont Zaragoza",
+        "posicion": "Alero",
+        "partidos_jugados": 34,
+        "puntos_totales": 91,
+        "valoracion_total": 170,
+        "valor_de_mercado": 134000.0
+    },
+    {
+        "nombre": "Mark Smith",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Casademont Zaragoza",
+        "posicion": "Base",
+        "partidos_jugados": 24,
+        "puntos_totales": 299,
+        "valoracion_total": 252,
+        "valor_de_mercado": 623000.0
+    },
+    {
+        "nombre": "Lucas Langarita",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Casademont Zaragoza",
+        "posicion": "Base",
+        "partidos_jugados": 29,
+        "puntos_totales": 84,
+        "valoracion_total": 63,
+        "valor_de_mercado": 145000.0
+    },
+    {
+        "nombre": "Trae Bell-Haynes",
+        "pais": "CANADIENSE",
+        "equipo": "Casademont Zaragoza",
+        "posicion": "Base",
+        "partidos_jugados": 33,
+        "puntos_totales": 420,
+        "valoracion_total": 457,
+        "valor_de_mercado": 636500.0
+    },
+    {
+        "nombre": "Youssouf Traore",
+        "pais": "MALIENSE",
+        "equipo": "Casademont Zaragoza",
+        "posicion": "Desconocida",
+        "partidos_jugados": 8,
+        "puntos_totales": 9,
+        "valoracion_total": 11,
+        "valor_de_mercado": 56000.0
+    },
+    {
+        "nombre": "Emir Sulejmanovic",
+        "pais": "FINLAND\u00c9S, BOSNIO",
+        "equipo": "Casademont Zaragoza",
+        "posicion": "Pivot",
+        "partidos_jugados": 31,
+        "puntos_totales": 255,
+        "valoracion_total": 359,
+        "valor_de_mercado": 411500.0
+    },
+    {
+        "nombre": "Dejan Kravic",
+        "pais": "CANADIENSE",
+        "equipo": "Casademont Zaragoza",
+        "posicion": "Pivot",
+        "partidos_jugados": 31,
+        "puntos_totales": 221,
+        "valoracion_total": 315,
+        "valor_de_mercado": 356500.0
+    },
+    {
+        "nombre": "Andrea Cinciarini",
+        "pais": "ITALIANO",
+        "equipo": "Casademont Zaragoza",
+        "posicion": "Base",
+        "partidos_jugados": 12,
+        "puntos_totales": 70,
+        "valoracion_total": 77,
+        "valor_de_mercado": 291500.0
+    },
+    {
+        "nombre": "Felipe Minzer",
+        "pais": "ARGENTINO",
+        "equipo": "Casademont Zaragoza",
+        "posicion": "Desconocida",
+        "partidos_jugados": 2,
+        "puntos_totales": 0,
+        "valoracion_total": 2,
+        "valor_de_mercado": 50000.0
+    },
+    {
+        "nombre": "Tomasz Gielo",
+        "pais": "POLACO",
+        "equipo": "Casademont Zaragoza",
+        "posicion": "Pivot",
+        "partidos_jugados": 17,
+        "puntos_totales": 63,
+        "valoracion_total": 63,
+        "valor_de_mercado": 185500.0
+    },
+    {
+        "nombre": "Sylven Landesberg",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Dreamland Gran Canaria",
+        "posicion": "Alero",
+        "partidos_jugados": 31,
+        "puntos_totales": 193,
+        "valoracion_total": 128,
+        "valor_de_mercado": 311500.0
+    },
+    {
+        "nombre": "Nicolas Brussino",
+        "pais": "ARGENTINO",
+        "equipo": "Dreamland Gran Canaria",
+        "posicion": "Alero",
+        "partidos_jugados": 34,
+        "puntos_totales": 421,
+        "valoracion_total": 470,
+        "valor_de_mercado": 619000.0
+    },
+    {
+        "nombre": "Ethan Happ",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Dreamland Gran Canaria",
+        "posicion": "Pivot",
+        "partidos_jugados": 34,
+        "puntos_totales": 424,
+        "valoracion_total": 540,
+        "valor_de_mercado": 623500.0
+    },
+    {
+        "nombre": "A.J. Slaughter",
+        "pais": "ESTADOUNIDENSE, POLACO",
+        "equipo": "Dreamland Gran Canaria",
+        "posicion": "Base",
+        "partidos_jugados": 31,
+        "puntos_totales": 347,
+        "valoracion_total": 292,
+        "valor_de_mercado": 559500.0
+    },
+    {
+        "nombre": "Ferran Bassas",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Dreamland Gran Canaria",
+        "posicion": "Base",
+        "partidos_jugados": 30,
+        "puntos_totales": 180,
+        "valoracion_total": 179,
+        "valor_de_mercado": 300000.0
+    },
+    {
+        "nombre": "Pierre Pelos",
+        "pais": "FRANC\u00c9S",
+        "equipo": "Dreamland Gran Canaria",
+        "posicion": "Pivot",
+        "partidos_jugados": 34,
+        "puntos_totales": 241,
+        "valoracion_total": 320,
+        "valor_de_mercado": 354500.0
+    },
+    {
+        "nombre": "John Shurna",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Dreamland Gran Canaria",
+        "posicion": "Alero",
+        "partidos_jugados": 28,
+        "puntos_totales": 266,
+        "valoracion_total": 266,
+        "valor_de_mercado": 475000.0
+    },
+    {
+        "nombre": "Ben Lammers",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Dreamland Gran Canaria",
+        "posicion": "Desconocida",
+        "partidos_jugados": 34,
+        "puntos_totales": 253,
+        "valoracion_total": 356,
+        "valor_de_mercado": 372000.0
+    },
+    {
+        "nombre": "Andrew Albicy",
+        "pais": "FRANC\u00c9S",
+        "equipo": "Dreamland Gran Canaria",
+        "posicion": "Base",
+        "partidos_jugados": 34,
+        "puntos_totales": 213,
+        "valoracion_total": 233,
+        "valor_de_mercado": 313000.0
+    },
+    {
+        "nombre": "Miquel Salvo",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Dreamland Gran Canaria",
+        "posicion": "Alero",
+        "partidos_jugados": 34,
+        "puntos_totales": 173,
+        "valoracion_total": 209,
+        "valor_de_mercado": 254500.0
+    },
+    {
+        "nombre": "Roko Prkacin",
+        "pais": "CROATA",
+        "equipo": "Dreamland Gran Canaria",
+        "posicion": "Alero",
+        "partidos_jugados": 21,
+        "puntos_totales": 52,
+        "valoracion_total": 62,
+        "valor_de_mercado": 124000.0
+    },
+    {
+        "nombre": "Martinas Geben",
+        "pais": "LITUANO",
+        "equipo": "BAXI Manresa",
+        "posicion": "Pivot",
+        "partidos_jugados": 34,
+        "puntos_totales": 286,
+        "valoracion_total": 352,
+        "valor_de_mercado": 420500.0
+    },
+    {
+        "nombre": "Devin Robinson",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "BAXI Manresa",
+        "posicion": "Pivot",
+        "partidos_jugados": 34,
+        "puntos_totales": 477,
+        "valoracion_total": 493,
+        "valor_de_mercado": 701500.0
+    },
+    {
+        "nombre": "Brancou Badio",
+        "pais": "SENEGAL\u00c9S",
+        "equipo": "BAXI Manresa",
+        "posicion": "Base",
+        "partidos_jugados": 34,
+        "puntos_totales": 477,
+        "valoracion_total": 376,
+        "valor_de_mercado": 701500.0
+    },
+    {
+        "nombre": "Marcis Steinbergs",
+        "pais": "LET\u00d3N",
+        "equipo": "BAXI Manresa",
+        "posicion": "Alero",
+        "partidos_jugados": 33,
+        "puntos_totales": 229,
+        "valoracion_total": 236,
+        "valor_de_mercado": 347000.0
+    },
+    {
+        "nombre": "Daniel Perez",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "BAXI Manresa",
+        "posicion": "Base",
+        "partidos_jugados": 28,
+        "puntos_totales": 213,
+        "valoracion_total": 231,
+        "valor_de_mercado": 380500.0
+    },
+    {
+        "nombre": "Brandon Taylor",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "BAXI Manresa",
+        "posicion": "Base",
+        "partidos_jugados": 33,
+        "puntos_totales": 289,
+        "valoracion_total": 241,
+        "valor_de_mercado": 438000.0
+    },
+    {
+        "nombre": "Juan Vaulet",
+        "pais": "ARGENTINO",
+        "equipo": "BAXI Manresa",
+        "posicion": "Pivot",
+        "partidos_jugados": 21,
+        "puntos_totales": 126,
+        "valoracion_total": 160,
+        "valor_de_mercado": 300000.0
+    },
+    {
+        "nombre": "Travante Williams",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "BAXI Manresa",
+        "posicion": "Alero",
+        "partidos_jugados": 34,
+        "puntos_totales": 232,
+        "valoracion_total": 245,
+        "valor_de_mercado": 341000.0
+    },
+    {
+        "nombre": "Daniel Garcia",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "BAXI Manresa",
+        "posicion": "Base",
+        "partidos_jugados": 27,
+        "puntos_totales": 162,
+        "valoracion_total": 202,
+        "valor_de_mercado": 300000.0
+    },
+    {
+        "nombre": "Guillem Jou",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "BAXI Manresa",
+        "posicion": "Alero",
+        "partidos_jugados": 7,
+        "puntos_totales": 6,
+        "valoracion_total": 18,
+        "valor_de_mercado": 50000.0
+    },
+    {
+        "nombre": "Musa Sagnia",
+        "pais": "GAMBIA",
+        "equipo": "BAXI Manresa",
+        "posicion": "Pivot",
+        "partidos_jugados": 34,
+        "puntos_totales": 166,
+        "valoracion_total": 236,
+        "valor_de_mercado": 244000.0
+    },
+    {
+        "nombre": "Elias Valtonen",
+        "pais": "FINLAND\u00c9S",
+        "equipo": "Coviran Granada",
+        "posicion": "Base",
+        "partidos_jugados": 30,
+        "puntos_totales": 186,
+        "valoracion_total": 197,
+        "valor_de_mercado": 310000.0
+    },
+    {
+        "nombre": "Juan Fernandez",
+        "pais": "ARGENTINO",
+        "equipo": "Rio Breogan",
+        "posicion": "Pivot",
+        "partidos_jugados": 34,
+        "puntos_totales": 290,
+        "valoracion_total": 314,
+        "valor_de_mercado": 426500.0
+    },
+    {
+        "nombre": "Stefan Momirov",
+        "pais": "SERBIO",
+        "equipo": "Rio Breogan",
+        "posicion": "Alero",
+        "partidos_jugados": 33,
+        "puntos_totales": 301,
+        "valoracion_total": 255,
+        "valor_de_mercado": 456000.0
+    },
+    {
+        "nombre": "Martynas Sajus",
+        "pais": "LITUANO",
+        "equipo": "Rio Breogan",
+        "posicion": "Pivot",
+        "partidos_jugados": 27,
+        "puntos_totales": 186,
+        "valoracion_total": 225,
+        "valor_de_mercado": 344500.0
+    },
+    {
+        "nombre": "Sergi Garcia",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Rio Breogan",
+        "posicion": "Base",
+        "partidos_jugados": 27,
+        "puntos_totales": 221,
+        "valoracion_total": 268,
+        "valor_de_mercado": 409500.0
+    },
+    {
+        "nombre": "Mouhamet Diouf",
+        "pais": "SENEGAL\u00c9S, ITALIANO",
+        "equipo": "Rio Breogan",
+        "posicion": "Pivot",
+        "partidos_jugados": 12,
+        "puntos_totales": 87,
+        "valoracion_total": 87,
+        "valor_de_mercado": 362500.0
+    },
+    {
+        "nombre": "Sergi Quintela",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Rio Breogan",
+        "posicion": "Desconocida",
+        "partidos_jugados": 34,
+        "puntos_totales": 176,
+        "valoracion_total": 218,
+        "valor_de_mercado": 259000.0
+    },
+    {
+        "nombre": "Matas Jogela",
+        "pais": "LITUANO",
+        "equipo": "Rio Breogan",
+        "posicion": "Alero",
+        "partidos_jugados": 33,
+        "puntos_totales": 242,
+        "valoracion_total": 254,
+        "valor_de_mercado": 366500.0
+    },
+    {
+        "nombre": "Matej Rudan",
+        "pais": "CROATA",
+        "equipo": "Rio Breogan",
+        "posicion": "Alero",
+        "partidos_jugados": 24,
+        "puntos_totales": 104,
+        "valoracion_total": 101,
+        "valor_de_mercado": 216500.0
+    },
+    {
+        "nombre": "Zan Sisko",
+        "pais": "ESLOVENO",
+        "equipo": "Rio Breogan",
+        "posicion": "Base",
+        "partidos_jugados": 1,
+        "puntos_totales": 5,
+        "valoracion_total": 6,
+        "valor_de_mercado": 50000.0
+    },
+    {
+        "nombre": "Anthony Polite",
+        "pais": "SUIZO",
+        "equipo": "Rio Breogan",
+        "posicion": "Alero",
+        "partidos_jugados": 27,
+        "puntos_totales": 178,
+        "valoracion_total": 206,
+        "valor_de_mercado": 329500.0
+    },
+    {
+        "nombre": "Markus Howard",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Baskonia Vitoria-Gasteiz",
+        "posicion": "Alero",
+        "partidos_jugados": 29,
+        "puntos_totales": 558,
+        "valoracion_total": 371,
+        "valor_de_mercado": 962000.0
+    },
+    {
+        "nombre": "Codi Miller-McIntyre",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Baskonia Vitoria-Gasteiz",
+        "posicion": "Base",
+        "partidos_jugados": 32,
+        "puntos_totales": 331,
+        "valoracion_total": 423,
+        "valor_de_mercado": 517000.0
+    },
+    {
+        "nombre": "Maik Kotsar",
+        "pais": "ESTONIO",
+        "equipo": "Baskonia Vitoria-Gasteiz",
+        "posicion": "Pivot",
+        "partidos_jugados": 32,
+        "puntos_totales": 206,
+        "valoracion_total": 264,
+        "valor_de_mercado": 322000.0
+    },
+    {
+        "nombre": "Chima Moneke",
+        "pais": "NIGERIANO",
+        "equipo": "Baskonia Vitoria-Gasteiz",
+        "posicion": "Pivot",
+        "partidos_jugados": 27,
+        "puntos_totales": 416,
+        "valoracion_total": 484,
+        "valor_de_mercado": 770500.0
+    },
+    {
+        "nombre": "Vanja Marinkovic",
+        "pais": "SERBIO",
+        "equipo": "Baskonia Vitoria-Gasteiz",
+        "posicion": "Alero",
+        "partidos_jugados": 32,
+        "puntos_totales": 378,
+        "valoracion_total": 293,
+        "valor_de_mercado": 590500.0
+    },
+    {
+        "nombre": "Khalifa Diop",
+        "pais": "SENEGAL\u00c9S",
+        "equipo": "Baskonia Vitoria-Gasteiz",
+        "posicion": "Pivot",
+        "partidos_jugados": 11,
+        "puntos_totales": 35,
+        "valoracion_total": 46,
+        "valor_de_mercado": 159000.0
+    },
+    {
+        "nombre": "Tadas Sedekerskis",
+        "pais": "LITUANO",
+        "equipo": "Baskonia Vitoria-Gasteiz",
+        "posicion": "Pivot",
+        "partidos_jugados": 30,
+        "puntos_totales": 253,
+        "valoracion_total": 398,
+        "valor_de_mercado": 421500.0
+    },
+    {
+        "nombre": "Matt Costello",
+        "pais": "",
+        "equipo": "Baskonia Vitoria-Gasteiz",
+        "posicion": "Pivot",
+        "partidos_jugados": 29,
+        "puntos_totales": 358,
+        "valoracion_total": 428,
+        "valor_de_mercado": 617000.0
+    },
+    {
+        "nombre": "Nikos Rogkavopoulos",
+        "pais": "GRIEGO",
+        "equipo": "Baskonia Vitoria-Gasteiz",
+        "posicion": "Pivot",
+        "partidos_jugados": 25,
+        "puntos_totales": 128,
+        "valoracion_total": 147,
+        "valor_de_mercado": 256000.0
+    },
+    {
+        "nombre": "Nico Mannion",
+        "pais": "ITALIANO",
+        "equipo": "Baskonia Vitoria-Gasteiz",
+        "posicion": "Base",
+        "partidos_jugados": 11,
+        "puntos_totales": 19,
+        "valoracion_total": 3,
+        "valor_de_mercado": 86500.0
+    },
+    {
+        "nombre": "Adam Smith",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Surne Bilbao",
+        "posicion": "Base",
+        "partidos_jugados": 30,
+        "puntos_totales": 322,
+        "valoracion_total": 235,
+        "valor_de_mercado": 536500.0
+    },
+    {
+        "nombre": "Melwin Pantzar",
+        "pais": "SUECO",
+        "equipo": "Surne Bilbao",
+        "posicion": "Base",
+        "partidos_jugados": 33,
+        "puntos_totales": 288,
+        "valoracion_total": 348,
+        "valor_de_mercado": 436500.0
+    },
+    {
+        "nombre": "Sacha Killeya-Jones",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Surne Bilbao",
+        "posicion": "Pivot",
+        "partidos_jugados": 32,
+        "puntos_totales": 407,
+        "valoracion_total": 399,
+        "valor_de_mercado": 636000.0
+    },
+    {
+        "nombre": "Georgios Tsalmpouris",
+        "pais": "GRIEGO",
+        "equipo": "Surne Bilbao",
+        "posicion": "Pivot",
+        "partidos_jugados": 22,
+        "puntos_totales": 65,
+        "valoracion_total": 47,
+        "valor_de_mercado": 147500.0
+    },
+    {
+        "nombre": "Kristian Kullamae",
+        "pais": "ESTONIO",
+        "equipo": "Surne Bilbao",
+        "posicion": "Alero",
+        "partidos_jugados": 34,
+        "puntos_totales": 343,
+        "valoracion_total": 299,
+        "valor_de_mercado": 504500.0
+    },
+    {
+        "nombre": "Denzel Andersson",
+        "pais": "SUECO",
+        "equipo": "Surne Bilbao",
+        "posicion": "Alero",
+        "partidos_jugados": 34,
+        "puntos_totales": 142,
+        "valoracion_total": 182,
+        "valor_de_mercado": 209000.0
+    },
+    {
+        "nombre": "Alex Renfroe",
+        "pais": "ESTADOUNIDENSE, BOSNIO",
+        "equipo": "Surne Bilbao",
+        "posicion": "Base",
+        "partidos_jugados": 32,
+        "puntos_totales": 219,
+        "valoracion_total": 334,
+        "valor_de_mercado": 342000.0
+    },
+    {
+        "nombre": "Xavier Rabaseda",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Surne Bilbao",
+        "posicion": "Alero",
+        "partidos_jugados": 31,
+        "puntos_totales": 95,
+        "valoracion_total": 171,
+        "valor_de_mercado": 153000.0
+    },
+    {
+        "nombre": "Alejandro Reyes",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Surne Bilbao",
+        "posicion": "Alero",
+        "partidos_jugados": 33,
+        "puntos_totales": 196,
+        "valoracion_total": 166,
+        "valor_de_mercado": 297000.0
+    },
+    {
+        "nombre": "Tryggvi Hlinason",
+        "pais": "ISLAND\u00c9S",
+        "equipo": "Surne Bilbao",
+        "posicion": "Pivot",
+        "partidos_jugados": 31,
+        "puntos_totales": 229,
+        "valoracion_total": 335,
+        "valor_de_mercado": 369500.0
+    },
+    {
+        "nombre": "Thijs De Ridder",
+        "pais": "BELGA",
+        "equipo": "Surne Bilbao",
+        "posicion": "Desconocida",
+        "partidos_jugados": 34,
+        "puntos_totales": 216,
+        "valoracion_total": 300,
+        "valor_de_mercado": 317500.0
+    },
+    {
+        "nombre": "Tomeu Rigo",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Surne Bilbao",
+        "posicion": "Alero",
+        "partidos_jugados": 10,
+        "puntos_totales": 10,
+        "valoracion_total": 0,
+        "valor_de_mercado": 50000.0
+    },
+    {
+        "nombre": "Markel Starks",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "MoraBanc Andorra",
+        "posicion": "Base",
+        "partidos_jugados": 15,
+        "puntos_totales": 135,
+        "valoracion_total": 115,
+        "valor_de_mercado": 450000.0
+    },
+    {
+        "nombre": "Tyson Perez",
+        "pais": "PUERTORRIQUE\u00d1O",
+        "equipo": "MoraBanc Andorra",
+        "posicion": "Pivot",
+        "partidos_jugados": 22,
+        "puntos_totales": 239,
+        "valoracion_total": 291,
+        "valor_de_mercado": 543000.0
+    },
+    {
+        "nombre": "Andrew Goudelock",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "MoraBanc Andorra",
+        "posicion": "Base",
+        "partidos_jugados": 6,
+        "puntos_totales": 71,
+        "valoracion_total": 45,
+        "valor_de_mercado": 591500.0
+    },
+    {
+        "nombre": "Adam Somogyi",
+        "pais": "H\u00daNGARO",
+        "equipo": "MoraBanc Andorra",
+        "posicion": "Base",
+        "partidos_jugados": 26,
+        "puntos_totales": 92,
+        "valoracion_total": 104,
+        "valor_de_mercado": 177000.0
+    },
+    {
+        "nombre": "Rafa Luz",
+        "pais": "BRASILE\u00d1O, ESPA\u00d1OL",
+        "equipo": "MoraBanc Andorra",
+        "posicion": "Base",
+        "partidos_jugados": 30,
+        "puntos_totales": 157,
+        "valoracion_total": 250,
+        "valor_de_mercado": 261500.0
+    },
+    {
+        "nombre": "Juan Rubio",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "MoraBanc Andorra",
+        "posicion": "Alero",
+        "partidos_jugados": 23,
+        "puntos_totales": 47,
+        "valoracion_total": 42,
+        "valor_de_mercado": 102000.0
+    },
+    {
+        "nombre": "Mihajlo Andric",
+        "pais": "SERBIO",
+        "equipo": "MoraBanc Andorra",
+        "posicion": "Alero",
+        "partidos_jugados": 34,
+        "puntos_totales": 202,
+        "valoracion_total": 188,
+        "valor_de_mercado": 297000.0
+    },
+    {
+        "nombre": "Tobias Borg",
+        "pais": "SUECO",
+        "equipo": "MoraBanc Andorra",
+        "posicion": "Base",
+        "partidos_jugados": 32,
+        "puntos_totales": 201,
+        "valoracion_total": 227,
+        "valor_de_mercado": 314000.0
+    },
+    {
+        "nombre": "Felipe Dos Anjos",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "MoraBanc Andorra",
+        "posicion": "Pivot",
+        "partidos_jugados": 31,
+        "puntos_totales": 203,
+        "valoracion_total": 279,
+        "valor_de_mercado": 327500.0
+    },
+    {
+        "nombre": "Marin Maric",
+        "pais": "CROATA",
+        "equipo": "MoraBanc Andorra",
+        "posicion": "Pivot",
+        "partidos_jugados": 34,
+        "puntos_totales": 405,
+        "valoracion_total": 482,
+        "valor_de_mercado": 595500.0
+    },
+    {
+        "nombre": "Ignacio Llovet",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "MoraBanc Andorra",
+        "posicion": "Pivot",
+        "partidos_jugados": 28,
+        "puntos_totales": 52,
+        "valoracion_total": 76,
+        "valor_de_mercado": 93000.0
+    },
+    {
+        "nombre": "Stanley Okoye",
+        "pais": "NIGERIANO, ESTADOUNIDENSE",
+        "equipo": "MoraBanc Andorra",
+        "posicion": "Alero",
+        "partidos_jugados": 23,
+        "puntos_totales": 190,
+        "valoracion_total": 180,
+        "valor_de_mercado": 413000.0
+    },
+    {
+        "nombre": "Jabari Parker",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "FC Barcelona",
+        "posicion": "Alero",
+        "partidos_jugados": 33,
+        "puntos_totales": 379,
+        "valoracion_total": 350,
+        "valor_de_mercado": 574000.0
+    },
+    {
+        "nombre": "Nikola Kalinic",
+        "pais": "SERBIA-MONTENEGRO",
+        "equipo": "FC Barcelona",
+        "posicion": "Pivot",
+        "partidos_jugados": 30,
+        "puntos_totales": 181,
+        "valoracion_total": 238,
+        "valor_de_mercado": 301500.0
+    },
+    {
+        "nombre": "Willy Hernangomez",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "FC Barcelona",
+        "posicion": "Pivot",
+        "partidos_jugados": 32,
+        "puntos_totales": 409,
+        "valoracion_total": 451,
+        "valor_de_mercado": 639000.0
+    },
+    {
+        "nombre": "Dario Brizuela",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "FC Barcelona",
+        "posicion": "Base",
+        "partidos_jugados": 31,
+        "puntos_totales": 259,
+        "valoracion_total": 233,
+        "valor_de_mercado": 417500.0
+    },
+    {
+        "nombre": "Tomas Satoransky",
+        "pais": "CHECO",
+        "equipo": "FC Barcelona",
+        "posicion": "Alero",
+        "partidos_jugados": 31,
+        "puntos_totales": 223,
+        "valoracion_total": 331,
+        "valor_de_mercado": 359500.0
+    },
+    {
+        "nombre": "Nicolas Laprovittola",
+        "pais": "ARGENTINO, ITALIANO",
+        "equipo": "FC Barcelona",
+        "posicion": "Base",
+        "partidos_jugados": 28,
+        "puntos_totales": 318,
+        "valoracion_total": 260,
+        "valor_de_mercado": 568000.0
+    },
+    {
+        "nombre": "Oscar Da Silva",
+        "pais": "ALEM\u00c1N",
+        "equipo": "FC Barcelona",
+        "posicion": "Alero",
+        "partidos_jugados": 32,
+        "puntos_totales": 172,
+        "valoracion_total": 222,
+        "valor_de_mercado": 269000.0
+    },
+    {
+        "nombre": "Jan Vesely",
+        "pais": "CHECO",
+        "equipo": "FC Barcelona",
+        "posicion": "Pivot",
+        "partidos_jugados": 26,
+        "puntos_totales": 227,
+        "valoracion_total": 291,
+        "valor_de_mercado": 436500.0
+    },
+    {
+        "nombre": "Alex Abrines",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "FC Barcelona",
+        "posicion": "Alero",
+        "partidos_jugados": 26,
+        "puntos_totales": 162,
+        "valoracion_total": 180,
+        "valor_de_mercado": 311500.0
+    },
+    {
+        "nombre": "Joel Parra",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "FC Barcelona",
+        "posicion": "Pivot",
+        "partidos_jugados": 31,
+        "puntos_totales": 205,
+        "valoracion_total": 231,
+        "valor_de_mercado": 330500.0
+    },
+    {
+        "nombre": "Rokas Jokubaitis",
+        "pais": "LITUANO",
+        "equipo": "FC Barcelona",
+        "posicion": "Base",
+        "partidos_jugados": 32,
+        "puntos_totales": 238,
+        "valoracion_total": 257,
+        "valor_de_mercado": 372000.0
+    },
+    {
+        "nombre": "James Nnaji",
+        "pais": "NIGERIANO",
+        "equipo": "FC Barcelona",
+        "posicion": "Pivot",
+        "partidos_jugados": 26,
+        "puntos_totales": 59,
+        "valoracion_total": 98,
+        "valor_de_mercado": 113500.0
+    },
+    {
+        "nombre": "Andrew Andrews",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Joventut Badalona",
+        "posicion": "Base",
+        "partidos_jugados": 28,
+        "puntos_totales": 299,
+        "valoracion_total": 209,
+        "valor_de_mercado": 534000.0
+    },
+    {
+        "nombre": "Vladimir Brodziansky",
+        "pais": "ESLOVACO",
+        "equipo": "Joventut Badalona",
+        "posicion": "Pivot",
+        "partidos_jugados": 28,
+        "puntos_totales": 234,
+        "valoracion_total": 231,
+        "valor_de_mercado": 418000.0
+    },
+    {
+        "nombre": "Chinanu Onuaku",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Joventut Badalona",
+        "posicion": "Pivot",
+        "partidos_jugados": 6,
+        "puntos_totales": 49,
+        "valoracion_total": 53,
+        "valor_de_mercado": 416500.0
+    },
+    {
+        "nombre": "Andres Feliz",
+        "pais": "DOMINICANO",
+        "equipo": "Joventut Badalona",
+        "posicion": "Base",
+        "partidos_jugados": 28,
+        "puntos_totales": 419,
+        "valoracion_total": 446,
+        "valor_de_mercado": 748000.0
+    },
+    {
+        "nombre": "DeShaun Thomas",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Joventut Badalona",
+        "posicion": "Pivot",
+        "partidos_jugados": 11,
+        "puntos_totales": 165,
+        "valoracion_total": 145,
+        "valor_de_mercado": 750000.0
+    },
+    {
+        "nombre": "Guillem Vives",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Joventut Badalona",
+        "posicion": "Alero",
+        "partidos_jugados": 26,
+        "puntos_totales": 155,
+        "valoracion_total": 190,
+        "valor_de_mercado": 298000.0
+    },
+    {
+        "nombre": "Ante Tomic",
+        "pais": "CROATA",
+        "equipo": "Joventut Badalona",
+        "posicion": "Pivot",
+        "partidos_jugados": 29,
+        "puntos_totales": 388,
+        "valoracion_total": 436,
+        "valor_de_mercado": 669000.0
+    },
+    {
+        "nombre": "Josep Busquets",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Joventut Badalona",
+        "posicion": "Alero",
+        "partidos_jugados": 33,
+        "puntos_totales": 161,
+        "valoracion_total": 203,
+        "valor_de_mercado": 244000.0
+    },
+    {
+        "nombre": "Yannick Kraag",
+        "pais": "NEERLAND\u00c9S",
+        "equipo": "Joventut Badalona",
+        "posicion": "Alero",
+        "partidos_jugados": 32,
+        "puntos_totales": 148,
+        "valoracion_total": 197,
+        "valor_de_mercado": 231000.0
+    },
+    {
+        "nombre": "Pau Ribas",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Joventut Badalona",
+        "posicion": "Alero",
+        "partidos_jugados": 27,
+        "puntos_totales": 166,
+        "valoracion_total": 163,
+        "valor_de_mercado": 307500.0
+    },
+    {
+        "nombre": "Miguel Allen",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Joventut Badalona",
+        "posicion": "Alero",
+        "partidos_jugados": 11,
+        "puntos_totales": 31,
+        "valoracion_total": 33,
+        "valor_de_mercado": 141000.0
+    },
+    {
+        "nombre": "Christian Diaz",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Coviran Granada",
+        "posicion": "Base",
+        "partidos_jugados": 29,
+        "puntos_totales": 109,
+        "valoracion_total": 92,
+        "valor_de_mercado": 188000.0
+    },
+    {
+        "nombre": "Jovan Kljajic",
+        "pais": "SERBIA-MONTENEGRO",
+        "equipo": "Dreamland Gran Canaria",
+        "posicion": "Alero",
+        "partidos_jugados": 25,
+        "puntos_totales": 93,
+        "valoracion_total": 66,
+        "valor_de_mercado": 186000.0
+    },
+    {
+        "nombre": "Oriol Pauli",
+        "pais": "ESLOVENO",
+        "equipo": "FC Barcelona",
+        "posicion": "Alero",
+        "partidos_jugados": 17,
+        "puntos_totales": 74,
+        "valoracion_total": 97,
+        "valor_de_mercado": 217500.0
+    },
+    {
+        "nombre": "Dimitrios Agravanis",
+        "pais": "GRIEGO",
+        "equipo": "Rio Breogan",
+        "posicion": "Pivot",
+        "partidos_jugados": 2,
+        "puntos_totales": 9,
+        "valoracion_total": 8,
+        "valor_de_mercado": 50000.0
+    },
+    {
+        "nombre": "Erik Quintela",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Rio Breogan",
+        "posicion": "Base",
+        "partidos_jugados": 17,
+        "puntos_totales": 39,
+        "valoracion_total": 47,
+        "valor_de_mercado": 114500.0
+    },
+    {
+        "nombre": "Jonas Bergstedt",
+        "pais": "DAN\u00c9S",
+        "equipo": "BAXI Manresa",
+        "posicion": "Pivot",
+        "partidos_jugados": 4,
+        "puntos_totales": 10,
+        "valoracion_total": 14,
+        "valor_de_mercado": 125000.0
+    },
+    {
+        "nombre": "Sander Raieste",
+        "pais": "ESTONIO",
+        "equipo": "Baskonia Vitoria-Gasteiz",
+        "posicion": "Alero",
+        "partidos_jugados": 28,
+        "puntos_totales": 64,
+        "valoracion_total": 67,
+        "valor_de_mercado": 109106.25
+    },
+    {
+        "nombre": "Daniel Diez",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Baskonia Vitoria-Gasteiz",
+        "posicion": "Alero",
+        "partidos_jugados": 29,
+        "puntos_totales": 85,
+        "valoracion_total": 139,
+        "valor_de_mercado": 146500.0
+    },
+    {
+        "nombre": "David Kravish",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Unicaja Malaga",
+        "posicion": "Pivot",
+        "partidos_jugados": 31,
+        "puntos_totales": 230,
+        "valoracion_total": 292,
+        "valor_de_mercado": 371000.0
+    },
+    {
+        "nombre": "Semi Ojeleye",
+        "pais": "NIGERIANO, ESTADOUNIDENSE",
+        "equipo": "Valencia Basket",
+        "posicion": "Pivot",
+        "partidos_jugados": 30,
+        "puntos_totales": 390,
+        "valoracion_total": 384,
+        "valor_de_mercado": 650000.0
+    },
+    {
+        "nombre": "Jordi Rodriguez",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Joventut Badalona",
+        "posicion": "Alero",
+        "partidos_jugados": 15,
+        "puntos_totales": 27,
+        "valoracion_total": 18,
+        "valor_de_mercado": 90000.0
+    },
+    {
+        "nombre": "Albert Ventura",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Rio Breogan",
+        "posicion": "Alero",
+        "partidos_jugados": 11,
+        "puntos_totales": 22,
+        "valoracion_total": 39,
+        "valor_de_mercado": 100000.0
+    },
+    {
+        "nombre": "Ismaila Diagne",
+        "pais": "SENEGAL\u00c9S",
+        "equipo": "Real Madrid",
+        "posicion": "Pivot",
+        "partidos_jugados": 4,
+        "puntos_totales": 20,
+        "valoracion_total": 36,
+        "valor_de_mercado": 250000.0
+    },
+    {
+        "nombre": "Rudy Fernandez",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Real Madrid",
+        "posicion": "Alero",
+        "partidos_jugados": 19,
+        "puntos_totales": 82,
+        "valoracion_total": 87,
+        "valor_de_mercado": 216000.0
+    },
+    {
+        "nombre": "Ruben Guerrero",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Monbus Obradoiro",
+        "posicion": "Pivot",
+        "partidos_jugados": 25,
+        "puntos_totales": 55,
+        "valoracion_total": 107,
+        "valor_de_mercado": 110000.0
+    },
+    {
+        "nombre": "Pol Figueras",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Monbus Obradoiro",
+        "posicion": "Base",
+        "partidos_jugados": 14,
+        "puntos_totales": 15,
+        "valoracion_total": 6,
+        "valor_de_mercado": 53500.0
+    },
+    {
+        "nombre": "Obi Emegano",
+        "pais": "NIGERIANO",
+        "equipo": "Casademont Zaragoza",
+        "posicion": "Base",
+        "partidos_jugados": 5,
+        "puntos_totales": 46,
+        "valoracion_total": 32,
+        "valor_de_mercado": 416875.0
+    },
+    {
+        "nombre": "Javier Garcia",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Casademont Zaragoza",
+        "posicion": "Alero",
+        "partidos_jugados": 1,
+        "puntos_totales": 0,
+        "valoracion_total": 0,
+        "valor_de_mercado": 50000.0
+    },
+    {
+        "nombre": "Jordan Sakho",
+        "pais": "CONGOLE\u00d1O",
+        "equipo": "Rio Breogan",
+        "posicion": "Pivot",
+        "partidos_jugados": 27,
+        "puntos_totales": 119,
+        "valoracion_total": 170,
+        "valor_de_mercado": 220500.0
+    },
+    {
+        "nombre": "Markel Brown",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Basquet Girona",
+        "posicion": "Alero",
+        "partidos_jugados": 11,
+        "puntos_totales": 85,
+        "valoracion_total": 56,
+        "valor_de_mercado": 386500.0
+    },
+    {
+        "nombre": "Roko Badzim",
+        "pais": "CROATA",
+        "equipo": "Monbus Obradoiro",
+        "posicion": "Base",
+        "partidos_jugados": 11,
+        "puntos_totales": 73,
+        "valoracion_total": 56,
+        "valor_de_mercado": 332000.0
+    },
+    {
+        "nombre": "Mitchell Watt",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Casademont Zaragoza",
+        "posicion": "Pivot",
+        "partidos_jugados": 29,
+        "puntos_totales": 353,
+        "valoracion_total": 368,
+        "valor_de_mercado": 608500.0
+    },
+    {
+        "nombre": "Gabriel Deck",
+        "pais": "ARGENTINO",
+        "equipo": "Real Madrid",
+        "posicion": "Pivot",
+        "partidos_jugados": 23,
+        "puntos_totales": 188,
+        "valoracion_total": 225,
+        "valor_de_mercado": 408500.0
+    },
+    {
+        "nombre": "Wilhelm Falk",
+        "pais": "SUECO",
+        "equipo": "UCAM Murcia",
+        "posicion": "Alero",
+        "partidos_jugados": 6,
+        "puntos_totales": 2,
+        "valoracion_total": -5,
+        "valor_de_mercado": 50000.0
+    },
+    {
+        "nombre": "Pere Oriola",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "BAXI Manresa",
+        "posicion": "Pivot",
+        "partidos_jugados": 28,
+        "puntos_totales": 92,
+        "valoracion_total": 143,
+        "valor_de_mercado": 164500.0
+    },
+    {
+        "nombre": "Conner Frankamp",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Zunder Palencia",
+        "posicion": "Base",
+        "partidos_jugados": 26,
+        "puntos_totales": 173,
+        "valoracion_total": 147,
+        "valor_de_mercado": 332500.0
+    },
+    {
+        "nombre": "Mario Saint-Supery",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Unicaja Malaga",
+        "posicion": "Desconocida",
+        "partidos_jugados": 5,
+        "puntos_totales": 3,
+        "valoracion_total": -2,
+        "valor_de_mercado": 50000.0
+    },
+    {
+        "nombre": "Corey Davis",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Basquet Girona",
+        "posicion": "Base",
+        "partidos_jugados": 15,
+        "puntos_totales": 106,
+        "valoracion_total": 62,
+        "valor_de_mercado": 353500.0
+    },
+    {
+        "nombre": "Sergi Huguet",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Monbus Obradoiro",
+        "posicion": "Alero",
+        "partidos_jugados": 1,
+        "puntos_totales": 0,
+        "valoracion_total": -2,
+        "valor_de_mercado": 50000.0
+    },
+    {
+        "nombre": "Yoanki Mensia",
+        "pais": "CUBANO",
+        "equipo": "Casademont Zaragoza",
+        "posicion": "Pivot",
+        "partidos_jugados": 10,
+        "puntos_totales": 66,
+        "valoracion_total": 66,
+        "valor_de_mercado": 330000.0
+    },
+    {
+        "nombre": "Ruben De Oliveira",
+        "pais": "PORTUGU\u00c9S",
+        "equipo": "Joventut Badalona",
+        "posicion": "Pivot",
+        "partidos_jugados": 19,
+        "puntos_totales": 56,
+        "valoracion_total": 93,
+        "valor_de_mercado": 147500.0
+    },
+    {
+        "nombre": "Jean Claudio Montero",
+        "pais": "DOMINICANO",
+        "equipo": "MoraBanc Andorra",
+        "posicion": "Alero",
+        "partidos_jugados": 28,
+        "puntos_totales": 440,
+        "valoracion_total": 503,
+        "valor_de_mercado": 785500.0
+    },
+    {
+        "nombre": "Xabier Lopez-Arosteguj",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Valencia Basket",
+        "posicion": "Pivot",
+        "partidos_jugados": 27,
+        "puntos_totales": 199,
+        "valoracion_total": 226,
+        "valor_de_mercado": 368500.0
+    },
+    {
+        "nombre": "Greg Whittington",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Zunder Palencia",
+        "posicion": "Pivot",
+        "partidos_jugados": 10,
+        "puntos_totales": 53,
+        "valoracion_total": 58,
+        "valor_de_mercado": 265000.0
+    },
+    {
+        "nombre": "Jerrick Harding",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "MoraBanc Andorra",
+        "posicion": "Base",
+        "partidos_jugados": 27,
+        "puntos_totales": 418,
+        "valoracion_total": 298,
+        "valor_de_mercado": 774000.0
+    },
+    {
+        "nombre": "Justin Anderson",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Valencia Basket",
+        "posicion": "Pivot",
+        "partidos_jugados": 24,
+        "puntos_totales": 233,
+        "valoracion_total": 223,
+        "valor_de_mercado": 485500.0
+    },
+    {
+        "nombre": "Dame Sarr",
+        "pais": "ITALIANO",
+        "equipo": "FC Barcelona",
+        "posicion": "Alero",
+        "partidos_jugados": 2,
+        "puntos_totales": 5,
+        "valoracion_total": 3,
+        "valor_de_mercado": 50000.0
+    },
+    {
+        "nombre": "Chris Chiozza",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Baskonia Vitoria-Gasteiz",
+        "posicion": "Base",
+        "partidos_jugados": 21,
+        "puntos_totales": 75,
+        "valoracion_total": 107,
+        "valor_de_mercado": 178500.0
+    },
+    {
+        "nombre": "Michael Ruzic",
+        "pais": "CROATA",
+        "equipo": "Joventut Badalona",
+        "posicion": "Pivot",
+        "partidos_jugados": 26,
+        "puntos_totales": 127,
+        "valoracion_total": 172,
+        "valor_de_mercado": 244000.0
+    },
+    {
+        "nombre": "Kenny Chery",
+        "pais": "CANADIENSE",
+        "equipo": "Basquet Girona",
+        "posicion": "Base",
+        "partidos_jugados": 11,
+        "puntos_totales": 81,
+        "valoracion_total": 55,
+        "valor_de_mercado": 368000.0
+    },
+    {
+        "nombre": "Ladji Coulibaly",
+        "pais": "MALIENSE",
+        "equipo": "BAXI Manresa",
+        "posicion": "Pivot",
+        "partidos_jugados": 4,
+        "puntos_totales": 5,
+        "valoracion_total": 4,
+        "valor_de_mercado": 62500.0
+    },
+    {
+        "nombre": "Alejandro Lopez",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Lenovo Tenerife",
+        "posicion": "Base",
+        "partidos_jugados": 9,
+        "puntos_totales": 5,
+        "valoracion_total": 7,
+        "valor_de_mercado": 50000.0
+    },
+    {
+        "nombre": "Oleksandr Kovliar",
+        "pais": "UKRAINIAN",
+        "equipo": "Monbus Obradoiro",
+        "posicion": "Base",
+        "partidos_jugados": 14,
+        "puntos_totales": 91,
+        "valoracion_total": 83,
+        "valor_de_mercado": 325000.0
+    },
+    {
+        "nombre": "Tyler Cook",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Joventut Badalona",
+        "posicion": "Pivot",
+        "partidos_jugados": 20,
+        "puntos_totales": 165,
+        "valoracion_total": 173,
+        "valor_de_mercado": 412500.0
+    },
+    {
+        "nombre": "Carlos Alocen",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Real Madrid",
+        "posicion": "Alero",
+        "partidos_jugados": 18,
+        "puntos_totales": 56,
+        "valoracion_total": 51,
+        "valor_de_mercado": 155500.0
+    },
+    {
+        "nombre": "Kasparas Jakucionis",
+        "pais": "LITUANO",
+        "equipo": "FC Barcelona",
+        "posicion": "Base",
+        "partidos_jugados": 2,
+        "puntos_totales": 9,
+        "valoracion_total": 12,
+        "valor_de_mercado": 50000.0
+    },
+    {
+        "nombre": "Jonathan Rousselle",
+        "pais": "FRANC\u00c9S",
+        "equipo": "Coviran Granada",
+        "posicion": "Base",
+        "partidos_jugados": 21,
+        "puntos_totales": 167,
+        "valoracion_total": 194,
+        "valor_de_mercado": 397500.0
+    },
+    {
+        "nombre": "Hugo Megias",
+        "pais": "",
+        "equipo": "Coviran Granada",
+        "posicion": "Desconocida",
+        "partidos_jugados": 1,
+        "puntos_totales": 0,
+        "valoracion_total": -1,
+        "valor_de_mercado": 50000.0
+    },
+    {
+        "nombre": "Arturs Kurucs",
+        "pais": "LET\u00d3N",
+        "equipo": "UCAM Murcia",
+        "posicion": "Alero",
+        "partidos_jugados": 18,
+        "puntos_totales": 48,
+        "valoracion_total": 35,
+        "valor_de_mercado": 133500.0
+    },
+    {
+        "nombre": "Martin Hermannsson",
+        "pais": "ISLAND\u00c9S",
+        "equipo": "Valencia Basket",
+        "posicion": "Base",
+        "partidos_jugados": 3,
+        "puntos_totales": 16,
+        "valoracion_total": 12,
+        "valor_de_mercado": 50000.0
+    },
+    {
+        "nombre": "\u00c1lex Moreno",
+        "pais": "",
+        "equipo": "Casademont Zaragoza",
+        "posicion": "Desconocida",
+        "partidos_jugados": 3,
+        "puntos_totales": 0,
+        "valoracion_total": -3,
+        "valor_de_mercado": 50000.0
+    },
+    {
+        "nombre": "Jose Maria Gonzalez",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Zunder Palencia",
+        "posicion": "Pivot",
+        "partidos_jugados": 10,
+        "puntos_totales": 6,
+        "valoracion_total": 7,
+        "valor_de_mercado": 50000.0
+    },
+    {
+        "nombre": "Marko Todorovic",
+        "pais": "MONTENEGRINO",
+        "equipo": "UCAM Murcia",
+        "posicion": "Pivot",
+        "partidos_jugados": 20,
+        "puntos_totales": 198,
+        "valoracion_total": 229,
+        "valor_de_mercado": 495000.0
+    },
+    {
+        "nombre": "Augusto Cesar Lima",
+        "pais": "BRASILE\u00d1O",
+        "equipo": "Unicaja Malaga",
+        "posicion": "Pivot",
+        "partidos_jugados": 16,
+        "puntos_totales": 34,
+        "valoracion_total": 54,
+        "valor_de_mercado": 106000.0
+    },
+    {
+        "nombre": "Ruben Lopez",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Dreamland Gran Canaria",
+        "posicion": "Pivot",
+        "partidos_jugados": 2,
+        "puntos_totales": 1,
+        "valoracion_total": 4,
+        "valor_de_mercado": 50000.0
+    },
+    {
+        "nombre": "Toni Nakic",
+        "pais": "CROATA",
+        "equipo": "Rio Breogan",
+        "posicion": "Alero",
+        "partidos_jugados": 19,
+        "puntos_totales": 139,
+        "valoracion_total": 151,
+        "valor_de_mercado": 366000.0
+    },
+    {
+        "nombre": "Ben McLemore",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Rio Breogan",
+        "posicion": "Alero",
+        "partidos_jugados": 18,
+        "puntos_totales": 220,
+        "valoracion_total": 134,
+        "valor_de_mercado": 611000.0
+    },
+    {
+        "nombre": "Rati Andronikashvili",
+        "pais": "GEORGIANO",
+        "equipo": "Casademont Zaragoza",
+        "posicion": "Base",
+        "partidos_jugados": 8,
+        "puntos_totales": 17,
+        "valoracion_total": 23,
+        "valor_de_mercado": 106000.0
+    },
+    {
+        "nombre": "Billy Ivey",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Basquet Girona",
+        "posicion": "Base",
+        "partidos_jugados": 4,
+        "puntos_totales": 19,
+        "valoracion_total": 15,
+        "valor_de_mercado": 237500.0
+    },
+    {
+        "nombre": "Alexander Madsen",
+        "pais": "FINLAND\u00c9S",
+        "equipo": "MoraBanc Andorra",
+        "posicion": "Pivot",
+        "partidos_jugados": 15,
+        "puntos_totales": 32,
+        "valoracion_total": 55,
+        "valor_de_mercado": 106500.0
+    },
+    {
+        "nombre": "Isaiah Pineiro",
+        "pais": "PUERTORRIQUE\u00d1O",
+        "equipo": "Zunder Palencia",
+        "posicion": "Pivot",
+        "partidos_jugados": 18,
+        "puntos_totales": 174,
+        "valoracion_total": 191,
+        "valor_de_mercado": 483500.0
+    },
+    {
+        "nombre": "Kyle Guy",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Lenovo Tenerife",
+        "posicion": "Alero",
+        "partidos_jugados": 17,
+        "puntos_totales": 243,
+        "valoracion_total": 180,
+        "valor_de_mercado": 714500.0
+    },
+    {
+        "nombre": "Kevin Pangos",
+        "pais": "CANADIENSE",
+        "equipo": "Valencia Basket",
+        "posicion": "Base",
+        "partidos_jugados": 12,
+        "puntos_totales": 47,
+        "valoracion_total": 57,
+        "valor_de_mercado": 196000.0
+    },
+    {
+        "nombre": "Shannon Evans",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Joventut Badalona",
+        "posicion": "Base",
+        "partidos_jugados": 17,
+        "puntos_totales": 155,
+        "valoracion_total": 117,
+        "valor_de_mercado": 456000.0
+    },
+    {
+        "nombre": "Joseba Querejeta",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Baskonia Vitoria-Gasteiz",
+        "posicion": "Base",
+        "partidos_jugados": 3,
+        "puntos_totales": 2,
+        "valoracion_total": 2,
+        "valor_de_mercado": 50000.0
+    },
+    {
+        "nombre": "Didac Cuevas",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Casademont Zaragoza",
+        "posicion": "Base",
+        "partidos_jugados": 14,
+        "puntos_totales": 40,
+        "valoracion_total": 45,
+        "valor_de_mercado": 143000.0
+    },
+    {
+        "nombre": "Keith Hornsby",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Surne Bilbao",
+        "posicion": "Alero",
+        "partidos_jugados": 14,
+        "puntos_totales": 145,
+        "valoracion_total": 110,
+        "valor_de_mercado": 518000.0
+    },
+    {
+        "nombre": "Malik Dime",
+        "pais": "SENEGAL\u00c9S",
+        "equipo": "Coviran Granada",
+        "posicion": "Pivot",
+        "partidos_jugados": 15,
+        "puntos_totales": 71,
+        "valoracion_total": 110,
+        "valor_de_mercado": 236500.0
+    },
+    {
+        "nombre": "Jordan Theodore",
+        "pais": "ESTADOUNIDENSE, MACED\u00d3NIO",
+        "equipo": "Baskonia Vitoria-Gasteiz",
+        "posicion": "Base",
+        "partidos_jugados": 9,
+        "puntos_totales": 27,
+        "valoracion_total": 22,
+        "valor_de_mercado": 150000.0
+    },
+    {
+        "nombre": "Fabian Flores",
+        "pais": "",
+        "equipo": "UCAM Murcia",
+        "posicion": "Desconocida",
+        "partidos_jugados": 3,
+        "puntos_totales": 4,
+        "valoracion_total": 8,
+        "valor_de_mercado": 50000.0
+    },
+    {
+        "nombre": "Selom Mawugbe",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "BAXI Manresa",
+        "posicion": "Pivot",
+        "partidos_jugados": 12,
+        "puntos_totales": 25,
+        "valoracion_total": 41,
+        "valor_de_mercado": 104000.0
+    },
+    {
+        "nombre": "Jonah Radebaugh",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "UCAM Murcia",
+        "posicion": "Base",
+        "partidos_jugados": 12,
+        "puntos_totales": 109,
+        "valoracion_total": 113,
+        "valor_de_mercado": 454000.0
+    },
+    {
+        "nombre": "Rob Gray",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Rio Breogan",
+        "posicion": "Alero",
+        "partidos_jugados": 2,
+        "puntos_totales": 11,
+        "valoracion_total": 5,
+        "valor_de_mercado": 50000.0
+    },
+    {
+        "nombre": "Jacob Wiley",
+        "pais": "",
+        "equipo": "Coviran Granada",
+        "posicion": "Alero",
+        "partidos_jugados": 12,
+        "puntos_totales": 101,
+        "valoracion_total": 138,
+        "valor_de_mercado": 421000.0
+    },
+    {
+        "nombre": "Khem Birch",
+        "pais": "",
+        "equipo": "Basquet Girona",
+        "posicion": "Pivot",
+        "partidos_jugados": 12,
+        "puntos_totales": 105,
+        "valoracion_total": 135,
+        "valor_de_mercado": 437500.0
+    },
+    {
+        "nombre": "Janis Strelnieks",
+        "pais": "LET\u00d3N",
+        "equipo": "Monbus Obradoiro",
+        "posicion": "Base",
+        "partidos_jugados": 8,
+        "puntos_totales": 19,
+        "valoracion_total": 10,
+        "valor_de_mercado": 119000.0
+    },
+    {
+        "nombre": "Janis Timma",
+        "pais": "LET\u00d3N",
+        "equipo": "Monbus Obradoiro",
+        "posicion": "Pivot",
+        "partidos_jugados": 10,
+        "puntos_totales": 87,
+        "valoracion_total": 101,
+        "valor_de_mercado": 435000.0
+    },
+    {
+        "nombre": "Jaylen Hands",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Zunder Palencia",
+        "posicion": "Base",
+        "partidos_jugados": 12,
+        "puntos_totales": 122,
+        "valoracion_total": 120,
+        "valor_de_mercado": 508500.0
+    },
+    {
+        "nombre": "Daniel Mu\u00f1oz",
+        "pais": "",
+        "equipo": "Casademont Zaragoza",
+        "posicion": "Desconocida",
+        "partidos_jugados": 1,
+        "puntos_totales": 0,
+        "valoracion_total": -2,
+        "valor_de_mercado": 50000.0
+    },
+    {
+        "nombre": "Karim Lopez",
+        "pais": "MEXICANO",
+        "equipo": "Joventut Badalona",
+        "posicion": "Desconocida",
+        "partidos_jugados": 4,
+        "puntos_totales": 2,
+        "valoracion_total": 1,
+        "valor_de_mercado": 50000.0
+    },
+    {
+        "nombre": "Michael Caicedo",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Basquet Girona",
+        "posicion": "Alero",
+        "partidos_jugados": 6,
+        "puntos_totales": 6,
+        "valoracion_total": 4,
+        "valor_de_mercado": 50000.0
+    },
+    {
+        "nombre": "Pablo Harguindey",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Monbus Obradoiro",
+        "posicion": "Desconocida",
+        "partidos_jugados": 4,
+        "puntos_totales": 2,
+        "valoracion_total": 3,
+        "valor_de_mercado": 50000.0
+    },
+    {
+        "nombre": "Ricky Rubio",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "FC Barcelona",
+        "posicion": "Base",
+        "partidos_jugados": 10,
+        "puntos_totales": 65,
+        "valoracion_total": 105,
+        "valor_de_mercado": 325000.0
+    },
+    {
+        "nombre": "Finn Delany",
+        "pais": "NUEVA ZELANDA",
+        "equipo": "Casademont Zaragoza",
+        "posicion": "Pivot",
+        "partidos_jugados": 10,
+        "puntos_totales": 70,
+        "valoracion_total": 88,
+        "valor_de_mercado": 350000.0
+    },
+    {
+        "nombre": "Will Barton",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Coviran Granada",
+        "posicion": "Pivot",
+        "partidos_jugados": 3,
+        "puntos_totales": 14,
+        "valoracion_total": 7,
+        "valor_de_mercado": 50000.0
+    },
+    {
+        "nombre": "Devon Dotson",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Monbus Obradoiro",
+        "posicion": "Base",
+        "partidos_jugados": 9,
+        "puntos_totales": 117,
+        "valoracion_total": 108,
+        "valor_de_mercado": 650000.0
+    },
+    {
+        "nombre": "Justin Robinson",
+        "pais": "ESTADOUNIDENSE",
+        "equipo": "Rio Breogan",
+        "posicion": "Base",
+        "partidos_jugados": 9,
+        "puntos_totales": 84,
+        "valoracion_total": 68,
+        "valor_de_mercado": 466500.0
+    },
+    {
+        "nombre": "Ian Platteuw",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Joventut Badalona",
+        "posicion": "Pivot",
+        "partidos_jugados": 1,
+        "puntos_totales": 2,
+        "valoracion_total": 4,
+        "valor_de_mercado": 50000.0
+    },
+    {
+        "nombre": "Alpha Kaba",
+        "pais": "FRANC\u00c9S",
+        "equipo": "Valencia Basket",
+        "posicion": "Pivot",
+        "partidos_jugados": 7,
+        "puntos_totales": 22,
+        "valoracion_total": 22,
+        "valor_de_mercado": 132250.0
+    },
+    {
+        "nombre": "Gabe York",
+        "pais": "",
+        "equipo": "Basquet Girona",
+        "posicion": "Alero",
+        "partidos_jugados": 6,
+        "puntos_totales": 89,
+        "valoracion_total": 73,
+        "valor_de_mercado": 733125.0
+    },
+    {
+        "nombre": "Amar Gegic",
+        "pais": "BOSNIO",
+        "equipo": "Dreamland Gran Canaria",
+        "posicion": "Alero",
+        "partidos_jugados": 3,
+        "puntos_totales": 2,
+        "valoracion_total": -1,
+        "valor_de_mercado": 50000.0
+    },
+    {
+        "nombre": "Scott Bamforth",
+        "pais": "ESTADOUNIDENSE, KOSOVAR",
+        "equipo": "Coviran Granada",
+        "posicion": "Alero",
+        "partidos_jugados": 5,
+        "puntos_totales": 50,
+        "valoracion_total": 39,
+        "valor_de_mercado": 500000.0
+    },
+    {
+        "nombre": "Sergio De Larrea",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Valencia Basket",
+        "posicion": "Base",
+        "partidos_jugados": 1,
+        "puntos_totales": 2,
+        "valoracion_total": 2,
+        "valor_de_mercado": 50000.0
+    },
+    {
+        "nombre": "Louis Riga",
+        "pais": "FRANC\u00c9S",
+        "equipo": "Lenovo Tenerife",
+        "posicion": "Desconocida",
+        "partidos_jugados": 2,
+        "puntos_totales": 0,
+        "valoracion_total": 1,
+        "valor_de_mercado": 50000.0
+    },
+    {
+        "nombre": "Unai Barandalla",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Surne Bilbao",
+        "posicion": "Pivot",
+        "partidos_jugados": 1,
+        "puntos_totales": 0,
+        "valoracion_total": 0,
+        "valor_de_mercado": 50000.0
+    },
+    {
+        "nombre": "Pau Majoral",
+        "pais": "ESPA\u00d1OL",
+        "equipo": "Joventut Badalona",
+        "posicion": "Base",
+        "partidos_jugados": 1,
+        "puntos_totales": 0,
+        "valoracion_total": -1,
+        "valor_de_mercado": 50000.0
+    }
+]

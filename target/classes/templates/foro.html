@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html class="h-100" xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <th:block th:replace="fragments/head :: header" />
+    <title>IW: Clasificación</title>
+</head>
+
+<body class="d-flex flex-column h-100">
+    <header th:replace="fragments/nav.html :: nav"></header>
+
+    <main class="flex-shrink-0">
+        <div class="container">
+            <h1 th:href="@{/foro/{id}(id=${liga.id})}">
+                <span th:text="${liga.nombreLiga}"></span>
+            </h1>
+        </div>
+        <div class="container">
+            <p th:if="${error}" class="error" th:text="${error}">
+                Error en el foro
+            </p>
+            <div class="toast" role="alert" aria-live="assertive" aria-atomic="true" id="reportToast">
+                <div class="toast-header">
+                  <strong class="me-auto">Notificación</strong>
+                  <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Cerrar"></button>
+                </div>
+                <div class="toast-body">
+                  Mensaje correctamente reportado.
+                </div>
+            </div>
+            <div class="py-5foro column" id="mensajes">
+            </div>
+            <form class="infoEquipo" method="post" th:action="@{/foro/{id}(id=${liga.id})}">
+                <label for="message" class="visually-hidden">Mensaje</label>
+                <input type="textarea" id="message" name="message" class="form-control" placeholder="Mensaje" required="required" maxlength="257">
+                <button id="sendmsg" class="Foroboton" type="submit">Publicar</button>
+            </form>
+        </div>
+    </main>
+
+    <th:block th:replace="fragments/footer.html :: footer" />
+    <script th:src="@{/js/ajax-demo.js}"></script>
+
+</body>
+
+
+</html>

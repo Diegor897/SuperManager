@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html class="h-100" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <th:block th:replace="fragments/head :: header" />
+    <title>Foros de mis ligas</title>
+</head>
+<body class="d-flex flex-column h-100">
+    <header th:replace="fragments/nav.html :: nav"></header>
+
+    <main class="flex-shrink-0">
+        <div class="container">
+            <th:block th:if="${ligas.empty}">
+                <p>No te has unido a ninguna liga todavía.</p>
+            </th:block>
+            <th:block th:if="${not ligas.empty}">
+                <h1>Foros</h1>             
+                <div class="row">
+                    <div th:each="liga : ${ligas}" class="col-md-6">
+                        <div class="card">                                               
+                            <div class="card-body d-flex flex-column align-items-center">
+                                <div class="head-title row align-center">
+                                    <a class="card-title" th:href="@{/foro/{id}(id=${liga.id})}">
+                                        <span th:text="${liga.nombreLiga}"> </span>
+                                    </a> 
+                                </div>                                                             
+                            </div>
+                        </div>
+                    </div>
+                </div>      
+            </th:block>
+        </div>
+    </main>
+    <th:block th:replace="fragments/footer.html :: footer" />
+
+   
+</body>
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html class="h-100" xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <th:block th:replace="fragments/head :: header" />
+    <title>IW: Admin</title>
+</head>
+
+<body class="d-flex flex-column h-100">
+    <header th:replace="fragments/nav.html :: nav"></header>
+
+    <main class="flex-shrink-0">
+        <div class="container">
+            <h1>Mensajes de <span th:text="${usuario.username}">Usuario</span></h1>
+            <th:block th:if="${mensajes.empty}">
+                <p>El usuario no ha enviado ningún mensaje</p>
+            </th:block>
+            <div class="infoMensaje" th:each="mensaje : ${mensajes}">
+                <p class="textoMensaje" th:text="${mensaje.text}">Texto</p>
+                <p class="textoMensaje" th:text="${mensaje.recipient.getNombreLiga()}">Foro liga</p>
+                <form class="form-signin" method="post" th:action="@{/admin/eliminarMensaje}">
+                    <input type="hidden" id="idMensaje" name="idMensaje" th:value="${mensaje.id}" />
+                    <button class="Foroboton" type="submit" name="formType" value="eliminar mensaje">Eliminar mensaje</button>
+                </form>
+            </div>
+            <form class="form-signin" method="post" th:action="@{/admin/eliminarMensajes}">
+                <input type="hidden" id="idUsuario" name="idUsuario" th:value="${usuario.id}" />
+                <button class="btn btn-lg btn-custom btn-block" type="submit" name="formType" value="borrar mensajes">Borrar todos los mensajes</button>
+            </form>
+        </div>
+    </main>
+
+    <th:block th:replace="fragments/footer.html :: footer" />
+    <script th:src="@{/js/ajax-demo.js}"></script>
+</body>
+
+</html>

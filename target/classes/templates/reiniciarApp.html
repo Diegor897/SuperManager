@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html class="h-100" xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <th:block th:replace="fragments/head :: header" />
+    <title>Reiniciar app</title>
+</head>
+
+<body class="d-flex flex-column h-100">
+    <header th:replace="fragments/nav.html :: nav"></header>
+
+    <main class="flex-shrink-0">
+        <div class="container">
+            <h1>Reiniciar la aplicación</h1>
+            <div>
+                <p>Reiniciar la aplicación tendrá los siguientes efectos:</p>
+                <ul>
+                    <li>La jornada volverá a ser la 1</li>
+                    <li>Ni los equipos ni los jugadores habrán jugado ningún partido pero no se borrará ninguno de sus datos</li>
+                    <li>No se borrará ningún usuario, ni equipos ni ligas creados por usuarios, pero los equipos de cada usuario se vaciarán</li>
+                    <li>Los mensajes enviados por los usuarios se eliminarán de la aplicación</li>
+                </ul>
+            </div>
+            <div class="my-3"></div> <!-- Espacio vertical -->
+
+            <form class="form-signin" method="post" th:action="@{/admin/reiniciarApp}">
+                <button class="btn btn-lg btn-custom btn-block" id="reiniciarApp" type="submit" name="formType" value="reiniciarApp">Reiniciar aplicación</button>
+            </form>
+        </div>
+    </main>
+
+    <th:block th:replace="fragments/footer.html :: footer" />
+    <script th:src="@{/js/ajax-demo.js}"></script>
+</body>
+
+</html>
