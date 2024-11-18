@@ -1,5 +1,5 @@
 # ProyectoIW
-
+Web designer for IW UNIVERSIDAD COMPLUTENSE DE MADRID
 **Propuesta proyecto:**
 Nuestra aplicación está inspirada en los conocidos juegos LaLiga Fantasy
 y SuperManager ACB. 
@@ -13,7 +13,7 @@ La aplicación dispondrá de un foro común en la que se lanzarán noticias, com
     - username: b // password: aa
 
 **Explicaciones adicionales proyecto:**
-El proyecto cuenta con los datos de equipos y jugadores de la Liga Endesa hasta la jornada 27. Dichos datos están ya incluidos en el archivo import.sql.
+El proyecto cuenta con los datos de equipos y jugadores de la Liga Endesa hasta la jornada 27 temporada 2023/2024. Dichos datos están ya incluidos en el archivo import.sql.
 
 Si se quieren añadir más jornadas hay que ejecutar, por separado y NO desde el directorio del proyecto, el archivo BDdesde0.py.
 Este archivo obtendrá los datos de todas las jornadas disponibles en la página web, incluida las fotos de equipos y jugadores, y los guardará en el archivo Liga.db.
