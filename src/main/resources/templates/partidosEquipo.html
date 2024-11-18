@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html class="h-100" xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <th:block th:replace="fragments/head :: header" />
+    <title>IW: Welcome</title>
+    <link rel="stylesheet" href="/css/index.css">
+</head>
+
+<body class="d-flex flex-column h-100">
+    <header th:replace="fragments/nav.html :: nav"></header>
+
+    <main class="flex-shrink-0">
+        <div class="container">
+
+           <th:block th:if="${equipo.id}">
+            <h1>Calendario partidos de <span th:text= "${equipo.nombreEquipo}"></span></h1>
+            
+            <table>
+                <thead>
+                    <tr>
+                        <th>Jornada</th>
+                        <th>Local</th>
+                        <th>Visitante</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    <tr th:each="partido: ${partidos}">
+                        <td th:text="${partido.jornada}"></td>                        
+                        <td>
+                            <img th:src="@{'/img/equipos/' + ${partido.local} + '.jpg'}" alt="Local team"/>
+                            <span th:if="${partido.local == equipo.nombreEquipo}">
+                                <strong th:text="${partido.local}"></strong>
+                            </span>
+
+                            <span th:unless="${partido.local == equipo.nombreEquipo}" th:text="${partido.local}"></span>          
+                            
+                        </td>
+                        <td>
+                            <img th:src="@{'/img/equipos/' + ${partido.visitante} + '.jpg'}" alt="Visitante team"/>
+                            <span th:if="${partido.visitante == equipo.nombreEquipo}">
+                                <strong th:text="${partido.visitante}"></strong>
+                            </span> 
+                            <span th:unless="${partido.visitante == equipo.nombreEquipo}" th:text="${partido.visitante}"></span>          
+                        
+                        </td>                        
+                    </tr>
+                </tbody>
+            </table>
+           
+            
+        </div>
+    </main>
+
+    <th:block th:replace="fragments/footer.html :: footer" />
+</body>
+
+</html>

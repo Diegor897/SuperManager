@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html class="h-100" xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <th:block th:replace="fragments/head :: header" />
+    <title>IW: Admin</title>
+</head>
+
+<body class="d-flex flex-column h-100">
+    <header th:replace="fragments/nav.html :: nav"></header>
+
+    <main class="flex-shrink-0">
+        <div class="container">
+            <h1>Administración</h1>
+            <form class="form-signin" method="get" th:action="@{/admin/usuarios}">
+                <button class="btn btn-lg btn-custom btn-block" type="submit" name="formType" value="listadoUsuarios">Ver usuarios</button>
+            </form>
+
+            <div class="my-3"></div> <!-- Espacio vertical -->
+
+            <form class="form-signin" method="get" th:action="@{/admin/mensajesReportados}">
+                <button class="btn btn-lg btn-custom btn-block" type="submit" name="formType" value="mensajesReportados">Ver mensajes reportados</button>
+            </form>
+
+            <div class="my-3"></div> <!-- Espacio vertical -->
+
+            <form class="form-signin" method="post" th:action="@{/admin/avanzarJornada}">
+                <button class="btn btn-lg btn-custom btn-block" id="avanzarJornada" type="submit" name="formType" value="avanzarJornada">Avanzar jornada</button>
+            </form>
+
+            <div class="my-3"></div> <!-- Espacio vertical -->
+
+            <form class="form-signin" method="get" th:action="@{/admin/anadirJornadas}">
+                <button class="btn btn-lg btn-custom btn-block" id="añadirJornadas" type="submit" name="formType" value="añadirJornadas">Añadir jornadas</button>
+            </form>
+
+            <div class="my-3"></div> <!-- Espacio vertical -->
+
+            <form class="form-signin" method="get" th:action="@{/admin/reiniciarApp}">
+                <button class="btn btn-lg btn-custom btn-block" id="reiniciarApp" type="submit" name="formType" value="reiniciarApp">Reiniciar aplicación</button>
+            </form>
+        </div>
+    </main>
+
+    <th:block th:replace="fragments/footer.html :: footer" />
+    <script th:src="@{/js/ajax-demo.js}"></script>
+</body>
+
+</html>

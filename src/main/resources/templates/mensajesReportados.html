@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html class="h-100" xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <th:block th:replace="fragments/head :: header" />
+    <title>IW: Admin</title>
+</head>
+
+<body class="d-flex flex-column h-100">
+    <header th:replace="fragments/nav.html :: nav"></header>
+
+    <main class="flex-shrink-0">
+        <div class="container">
+            <h1>Mensajes reportados</h1>
+            <th:block th:if="${reportados.empty}">
+                <p>No hay mensajes reportados</p>
+            </th:block>
+            <div class="infoMensaje" th:each="mensaje : ${reportados}">
+                <p class="textoFrom">
+                    <a class="enlace" th:href="@{/perfilPublico/{id}(id=${mensaje.sender.getId()})}" th:text="${mensaje.sender.getUsername()}">Nombre usuario</a>
+                </p>
+                <p class="textoMensaje" th:text="${mensaje.text}">Texto</p>
+                <input type="hidden" id="idMensaje" name="idMensaje" th:value="${mensaje.id}" />
+                <form class="form-signin" method="post" th:action="@{/admin/validarMensaje}">
+                    <input type="hidden" id="idMensaje" name="idMensaje" th:value="${mensaje.id}" />
+                    <button class="Foroboton" type="submit" name="formType" value="validar mensaje">Validar mensaje</button>
+                </form>
+                <form class="form-signin" method="post" th:action="@{/admin/eliminarMensaje}">
+                    <input type="hidden" id="idMensaje" name="idMensaje" th:value="${mensaje.id}" />
+                    <button class="Foroboton" type="submit" name="formType" value="eliminar mensaje">Eliminar mensaje</button>
+                </form>
+            </div>
+        </div>
+    </main>
+
+    <th:block th:replace="fragments/footer.html :: footer" />
+    <script th:src="@{/js/ajax-demo.js}"></script>
+</body>
+
+</html>

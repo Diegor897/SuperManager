@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html class="h-100" xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <th:block th:replace="fragments/head :: header" />
+    <title>IW: Usuario</title>
+</head>
+
+<body class="d-flex flex-column h-100">
+    <header th:replace="fragments/nav.html :: nav"></header>
+
+    <main class="flex-shrink-0">
+        <div class="container">
+            <h1 class="mt-5">Info usuario</h1>
+            <h1 class="mt-5">Perfil de <span th:text="${user.username}">Paco</span></h1>
+
+            <div id="profile" class="border border-2 border-tertiary rounded">
+                <form class="form-signin2" method="post" th:action="@{/user/__${user.id}__/profile}">
+                    <h2 class="form-signin-heading">Información usuario</h2>
+                    <p th:if="${#request.getQueryString() == 'error'}" class="error">
+                        Error en nombre 
+                    </p>
+                    <p>
+                        <label for="firstName" class="visually-hidden">Nombre</label>
+                        <input type="text" id="firstName" name="firstName" class="form-control" placeholder="firstName" required="required">
+                    </p>
+    
+                    <div class="spacer-login"></div>
+    
+                    <p>
+                        <label for="lastName" class="visually-hidden">Apellidos</label>
+                        <input type="lastName" id="lastName" name="lastName" class="form-control" placeholder="lastName" required="required">
+                    </p>
+    
+                    <div class="spacer-login"></div>
+    
+                    <button class="btn-login" type="submit">Cambiar información</button>
+    
+                    <div class="spacer-login"></div>
+                </form>
+            </div>
+        </div>
+        
+    </main>
+
+    <th:block th:replace="fragments/footer.html :: footer" />
+    <script th:src="@{/js/ajax-demo.js}"></script>
+</body>
+
+</html>

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html class="h-100" xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <th:block th:replace="fragments/head :: header" />
+    <title>IW: Equipos</title>
+</head>
+
+<body class="d-flex flex-column h-100">
+    <header th:replace="fragments/nav.html :: nav"></header>
+
+    <main class="flex-shrink-0">
+        <div class="container">
+            <h1>Perfil de <span th:text="${usuario.username}">Usuario</span></h1>
+            <p>Nombre: <span th:text="${usuario.firstName}">No ha actualizado este campo</span></p>
+            <p>Apellidos: <span th:text="${usuario.lastName}">No ha actualizado este campo</span></p>
+            <th:block th:if="${equipos.empty}">
+                <p>El usuario no tiene equipos actualmente</p>
+            </th:block>
+            <h3>Información de los equipos que gestiona <span th:text="${usuario.username}">Usuario</span></h3>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Nombre</th>
+                        <th>Puntos</th>
+                        <th>Dinero</th>
+                        <th>Liga</th>
+                        <th>Posición</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr th:each="equipo : ${equipos}">
+                        <td>
+                            <a class = "enlace" th:href="@{/MiEquipo/{id}(id=${equipo.id})}" th:text="${equipo.teamname}">Los Canijos</a>
+                        </td>
+                        <td th:text="${equipo.puntos}"></td>
+                        <td th:text="${equipo.dinero}"></td>
+                        <td th:if="${equipo.liga eq null}">
+                            <p>Este equipo no está en una liga actualmente</p>
+                        </td>
+                        <td th:unless="${equipo.liga eq null}">
+                            <a class = "enlace" th:href = "@{/liga/{id}(id=${equipo.liga.id})}" th:text="${equipo.liga.getNombreLiga()}"> </a>
+                        </td>
+                        <td th:text="${posiciones[equipo.teamname]}"></td>
+                    </tr>                    
+                </tbody>
+            </table>
+            <th:block th:if="${session.u.hasRole('ADMIN')}">
+                <form th:if="${!usuario.enabled}" class="form-signin" th:method="post" th:action="@{/admin/desbanearUsuario}">
+                    <input type="hidden" id="idUsuario" name="idUsuario" th:value="${usuario.id}"/>
+                    <button class="Foroboton" type="submit">Desbanear usuario</button>
+                </form>
+                <form th:if="${usuario.enabled}" class="form-signin" method="post" th:action="@{/admin/banearUsuario}">
+                    <input type="hidden" id="idUsuario" name="idUsuario" th:value="${usuario.id}" />
+                    <button class="Foroboton" type="submit" name="formType" value="banear usuario">Banear usuario</button>
+                </form>
+            </th:block>
+        </div>
+    </main>
+
+    <th:block th:replace="fragments/footer.html :: footer" />
+
+    <script th:src="@{/js/ajax-demo.js}"></script>
+</body>
+</html>

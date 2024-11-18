@@ -1,0 +1,48 @@
+</html>
+<!DOCTYPE html>
+<html class="h-100" xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <th:block th:replace="fragments/head :: header" />
+    <title>IW: Información Jugador</title>
+</head>
+
+<body class="d-flex flex-column h-100">
+    <header th:replace="fragments/nav.html :: nav"></header>
+
+    <main class="flex-shrink-0">
+        <div class="container">
+            <h1>Información de <span th:text="${jugador.nombre}">Jugador</span></h1>
+            <th:block>
+                <div>
+                    <div class="cabeceraJugador">
+                        <div class="imagen_jugador">
+                            <img th:src="@{'/img/jugadores/' + ${jugador.nombre} + '.jpg'}"/>
+                        </div>
+                        <div class="infoPersonal">
+                            <div class="nombreJugador"><span th:text="${jugador.nombre}">Nombre jugador</span></div>
+                            <div><span th:text="${jugador.pais}">Pais jugador</span></div>
+                            <div><span th:text="${jugador.posicion}">Posicion jugador</span></div>
+                            <div><span th:text="${jugador.equipo}">Equipo jugador</span></div>
+                        </div>
+                    </div>
+                    <div class="promediosTemporada">
+                        <div class="tituloPromedios"><h4>Promedios en temporada regular</h4></div>
+                        <div class="categoriaPromedio">Partidos jugados: <span th:text="${jugador.partidosJugados}">Partidos jugador</span></div>
+                        <div class="categoriaPromedio">Puntos totales: <span th:text="${jugador.puntosTotales}">Puntos jugador</span></div>
+                        <div class="categoriaPromedio">Valoración total: <span th:text="${jugador.valoracionTotal}">Valoración jugador</span></div>
+                        <div class="categoriaPromedio">Valoración por partido: <span th:text="${jugador.valoracionMedia}">Valoracion por partido</span></div>
+                        <div class="categoriaPromedio">Valor de mercado: <span th:text="${jugador.valorMercado} + '&euro;'">Valor jugador</span></div>
+                        <div class="ultimosPartidos">
+                            Últimos partidos:
+                            <p th:each="valoracion : ${ultimosPartidos}" th:text="${valoracion}">Valoracion</p>
+                        </div>
+                    </div>
+                </div>
+            </th:block>
+        </div>
+    </main>
+    <th:block th:replace="fragments/footer.html :: footer" />
+</body>
+</html>
+
